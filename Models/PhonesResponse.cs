@@ -32,6 +32,9 @@ namespace ConsoleApp.Models
             [JsonProperty("name")]
             public string Name { get; set; }
 
+            [JsonProperty("brand")]
+            public string Brand { get; set; }
+
             [JsonProperty("slug")]
             public string Slug { get; set; }
 
