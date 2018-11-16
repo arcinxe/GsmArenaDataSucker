@@ -1,0 +1,106 @@
+{
+    "data": {
+        "brand": "Acer",
+        "device_name": "Acer Chromebook Tab 10",
+        "device_type": "Tablet",
+        "image_url": "https://cdn2.gsmarena.com/vv/bigpic/acer-chromebook-tab-10.jpg",
+        "overview": {
+            "general_info": {
+                "launched": "Released 2018, July",
+                "body": "544.3g, 9.9mm thickness",
+                "os": "Chrome OS",
+                "storage": "32GB storage, microSD card slot"
+            },
+            "display": {
+                "touchscreen": "Yes",
+                "size": "9.7\"",
+                "resolution": "1536x2048 pixels"
+            },
+            "camera": {
+                "photo": "5MP",
+                "video": "720p"
+            },
+            "expansion": {
+                "ram": "4GB RAM",
+                "chipset": "Rockchip RK3399"
+            },
+            "battery": {
+                "capacity": "4500mAh",
+                "technology": "Li-Po"
+            }
+        },
+        "detail": {
+            "battery": {
+                "": "Non-removable Li-Po 4500 mAh battery (34 Wh)",
+                "talk_time": "Up to 9 h (multimedia)"
+            },
+            "body": {
+                "": "- Stylus",
+                "dimensions": "238.3 x 172.2 x 9.9 mm (9.38 x 6.78 x 0.39 in)",
+                "sim": "No",
+                "weight": "544.3 g (1.20 lb)"
+            },
+            "comms": {
+                "bluetooth": "4.1, A2DP, LE",
+                "gps": "",
+                "radio": "No",
+                "usb": "3.1, Type-C 1.0 reversible connector",
+                "wlan": "Wi-Fi 802.11 b/g/n/ac, dual-band, WiFi Direct"
+            },
+            "display": {
+                "multitouch": "Yes, up to 10 fingers",
+                "resolution": "1536 x 2048 pixels, 4:3 ratio (~264 ppi density)",
+                "size": "9.7 inches, 291.4 cm2 (~71.0% screen-to-body ratio)",
+                "type": "IPS LCD capacitive touchscreen, 16M colors"
+            },
+            "features": {
+                "": [
+                    "MP3/WAV/eAAC+/Flac player",
+                    "MP4/H.264 player",
+                    "Document viewer",
+                    "Photo/video editor"
+                ],
+                "browser": "HTML5",
+                "messaging": "Email, Push Email, IM",
+                "sensors": "Accelerometer"
+            },
+            "launch": {
+                "announced": "2018, March",
+                "status": "Available. Released 2018, July"
+            },
+            "main__camera": {
+                "single": "5 MP",
+                "video": "720p"
+            },
+            "memory": {
+                "card_slot": "microSD, up to 128 GB",
+                "internal": "32 GB, 4 GB RAM"
+            },
+            "misc": {
+                "colors": "Black, Blue",
+                "price": "About 330 EUR"
+            },
+            "network": {
+                "2g_bands": "N/A",
+                "edge": "No",
+                "gprs": "No",
+                "technology": "No cellular connectivity"
+            },
+            "platform": {
+                "chipset": "Rockchip RK3399",
+                "cpu": "Hexa-core (4x Cortex-A53 \u0026 2x Cortex-A72)",
+                "os": "Chrome OS"
+            },
+            "selfie_camera": {
+                "single": "2 MP",
+                "video": ""
+            },
+            "sound": {
+                "3_5mm_jack": "Yes",
+                "alert_types": "MP3, WAV ringtones",
+                "loudspeaker": "Yes, with stereo speakers"
+            }
+        }
+    },
+    "error": null
+}

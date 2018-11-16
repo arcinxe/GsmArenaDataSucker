@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using Newtonsoft.Json;
 
 namespace ConsoleApp.Models
@@ -92,7 +93,8 @@ namespace ConsoleApp.Models
     public partial class Body
     {
         [JsonProperty("")]
-        public string[] Empty { get; set; }
+        [JsonConverter(typeof(SingleOrArrayConverter<string>))]
+        public List<string> Empty { get; set; }
 
         [JsonProperty("build")]
         public string Build { get; set; }
@@ -180,6 +182,12 @@ namespace ConsoleApp.Models
 
         [JsonProperty("single")]
         public string Single { get; set; }
+
+        [JsonProperty("dual")]
+        public string[] Dual { get; set; }
+
+        [JsonProperty("triple")]
+        public string[] Triple { get; set; }
 
         [JsonProperty("video")]
         public string Video { get; set; }

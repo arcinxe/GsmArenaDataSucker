@@ -7,6 +7,7 @@ using Newtonsoft.Json;
 using ConsoleApp.Models;
 using System.Linq;
 using ConsoleApp;
+using System.Collections.Generic;
 
 namespace Documents
 {
@@ -28,7 +29,12 @@ namespace Documents
             var phones = JsonConvert.DeserializeObject<PhonesResponse>(phonesContent.Result);
             File.WriteAllText("PhonesResponse.txt", JsonConvert.SerializeObject(phones));
             // System.Console.WriteLine(brands.Data.Sum(b => b.NumberOfDevices));
+            // System.Console.WriteLine(GsmArenaApi.GetPhoneDetails(GsmArenaApi.GetPhonesFromTheBrand(GsmArenaApi.GetAllBrands().Result.Data.FirstOrDefault().Slug).Result.Data.Items.FirstOrDefault().Slug).Result.Data.Detail.Display.Resolution);
             System.Console.WriteLine(GsmArenaApi.GetPhonesFromTheBrand(GsmArenaApi.GetAllBrands().Result.Data.FirstOrDefault().Slug).Result.Data.Items.FirstOrDefault().Slug);
+            var foo = GsmArenaApi.GetPhoneDetails("acer_chromebook_tab_10-9139").Result;
+            System.Console.WriteLine(foo.Data.Detail.Display.Resolution);
+            // var phones = new List<PhonesResponse.Phone>();
+
         }
     }
 }
