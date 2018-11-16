@@ -1,1 +1,289 @@
-{"data":{"items":[{"id":9139,"name":"Chromebook Tab 10","slug":"acer_chromebook_tab_10-9139","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-chromebook-tab-10.jpg","description":"Acer Chromebook Tab 10 tablet. Announced Mar 2018. Features 9.7″ IPS LCD display, Rockchip RK3399 chipset, 5 MP primary camera, 2 MP front camera, 4500 mAh battery, 32 GB storage, 4 GB RAM."},{"id":8306,"name":"Iconia Talk S","slug":"acer_iconia_talk_s-8306","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-iconia-talk-s.jpg","description":"Acer Iconia Talk S Android tablet. Announced Aug 2016. Features 7.0″ IPS LCD display, MT8735 chipset, 13 MP primary camera, 2 MP front camera, 3400 mAh battery, 32 GB storage, 2 GB RAM."},{"id":8305,"name":"Liquid Z6 Plus","slug":"acer_liquid_z6_plus-8305","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-z6-plus.jpg","description":"Acer Liquid Z6 Plus Android smartphone. Announced Aug 2016. Features 5.5″ IPS LCD display, MT6753 chipset, 13 MP primary camera, 5 MP front camera, 4080 mAh battery, 32 GB storage, 3 GB RAM."},{"id":8304,"name":"Liquid Z6","slug":"acer_liquid_z6-8304","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-z6.jpg","description":"Acer Liquid Z6 Android smartphone. Announced Aug 2016. Features 5.0″ IPS LCD display, MT6737 chipset, 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM."},{"id":8080,"name":"Iconia Tab 10 A3-A40","slug":"acer_iconia_tab_10_a3_a40-8080","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-iconia-tab-10-a3-a40.jpg","description":"Acer Iconia Tab 10 A3-A40 Android tablet. Announced Apr 2016. Features 10.1″ IPS LCD display, MT8163A chipset, 5 MP primary camera, 2 MP front camera, 6100 mAh battery, 64 GB storage, 2 GB RAM."},{"id":8034,"name":"Liquid X2","slug":"acer_liquid_x2-8034","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-x2-1.jpg","description":"Acer Liquid X2 Android smartphone. Announced Apr 2015. Features 5.5″ IPS LCD display, MT6753 chipset, 13 MP primary camera, 13 MP front camera, 4020 mAh battery, 32 GB storage, 3 GB RAM."},{"id":7956,"name":"Liquid Jade 2","slug":"acer_liquid_jade_2-7956","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-jade-2.jpg","description":"Acer Liquid Jade 2 Android smartphone. Announced Feb 2016. Features 5.5″ Super AMOLED display, Snapdragon 808 chipset, 21 MP primary camera, 8 MP front camera, 3000 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass 4."},{"id":8059,"name":"Liquid Zest Plus","slug":"acer_liquid_zest_plus-8059","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-zest-plus-z628.jpg","description":"Acer Liquid Zest Plus Android smartphone. Announced Apr 2016. Features 5.5″ IPS LCD display, MT6735 chipset, 13 MP primary camera, 5 MP front camera, 5000 mAh battery, 16 GB storage, 2 GB RAM."},{"id":7955,"name":"Liquid Zest","slug":"acer_liquid_zest-7955","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-zest.jpg","description":"Acer Liquid Zest Android smartphone. Announced Feb 2016. Features 5.0″ IPS LCD display, MT6580 chipset, 8 MP primary camera, 5 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM."},{"id":7750,"name":"Predator 8","slug":"acer_predator_8-7750","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-predator-8.jpg","description":"Acer Predator 8 Android tablet. Announced Sep 2015. Features 8.0″ IPS LCD display, Intel Atom x7-Z8700 chipset, 5 MP primary camera, 2 MP front camera, 4420 mAh battery, 64 GB storage, 2 GB RAM."},{"id":7650,"name":"Liquid Jade Primo","slug":"acer_liquid_jade_primo-7650","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-jade-primo-.jpg","description":"Acer Liquid Jade Primo Windows Mobile smartphone. Announced Sep 2015. Features 5.5″ AMOLED display, Snapdragon 808 chipset, 21 MP primary camera, 8 MP front camera, 2870 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass (unspecified version)."},{"id":7530,"name":"Liquid Z330","slug":"acer_liquid_z330-7530","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-z320-z330.jpg","description":"Acer Liquid Z330 Android smartphone. Announced Sep 2015. Features 4.5″ IPS LCD display, Snapdragon 210 chipset, 5 MP primary camera, 5 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM."},{"id":7531,"name":"Liquid Z320","slug":"acer_liquid_z320-7531","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-z320-z330.jpg","description":"Acer Liquid Z320 Android smartphone. Announced Sep 2015. Features 4.5″ IPS LCD display, Snapdragon 210 chipset, 5 MP primary camera, 2 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM."},{"id":7529,"name":"Liquid Z630S","slug":"acer_liquid_z630s-7529","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-z630.jpg","description":"Acer Liquid Z630S Android smartphone. Announced Sep 2015. Features 5.5″ IPS LCD display, MT6753 chipset, 8 MP primary camera, 8 MP front camera, 4000 mAh battery, 32 GB storage, 3 GB RAM."},{"id":7528,"name":"Liquid Z630","slug":"acer_liquid_z630-7528","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-z630.jpg","description":"Acer Liquid Z630 Android smartphone. Announced Sep 2015. Features 5.5″ IPS LCD display, MT6735 chipset, 8 MP primary camera, 8 MP front camera, 4000 mAh battery, 16 GB storage, 2 GB RAM."},{"id":7527,"name":"Liquid Z530S","slug":"acer_liquid_z530s-7527","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-z530.jpg","description":"Acer Liquid Z530S Android smartphone. Announced Sep 2015. Features 5.0″ IPS LCD display, MT6753 chipset, 8 MP primary camera, 8 MP front camera, 2420 mAh battery, 32 GB storage, 3 GB RAM."},{"id":7526,"name":"Liquid Z530","slug":"acer_liquid_z530-7526","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-z530.jpg","description":"Acer Liquid Z530 Android smartphone. Announced Sep 2015. Features 5.0″ IPS LCD display, MT6735 chipset, 8 MP primary camera, 8 MP front camera, 2420 mAh battery, 16 GB storage, 2 GB RAM."},{"id":7524,"name":"Liquid M330","slug":"acer_liquid_m330-7524","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-m320-m330.jpg","description":"Acer Liquid M330 Windows Mobile smartphone. Announced Sep 2015. Features 4.5″ IPS LCD display, Snapdragon 210 chipset, 5 MP primary camera, 5 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM."},{"id":7525,"name":"Liquid M320","slug":"acer_liquid_m320-7525","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-m320-m330.jpg","description":"Acer Liquid M320 Windows Mobile smartphone. Announced Sep 2015. Features 4.5″ IPS LCD display, Snapdragon 210 chipset, 5 MP primary camera, 2 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM."},{"id":7218,"name":"Iconia Tab 10 A3-A30","slug":"acer_iconia_tab_10_a3_a30-7218","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-iconia-tab-10-a3-a30-new.png","description":"Acer Iconia Tab 10 A3-A30 Android tablet. Announced Apr 2015. Features 10.1″ LED-backlit IPS LCD display, Intel Atom Z3735F chipset, 5 MP primary camera, 2 MP front camera, 5910 mAh battery, 64 GB storage, 2 GB RAM, Corning Gorilla Glass 4."},{"id":7217,"name":"Iconia One 8 B1-820","slug":"acer_iconia_one_8_b1_820-7217","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-iconia-one-8-b1-820.jpg","description":"Acer Iconia One 8 B1-820 Android tablet. Announced Apr 2015. Features 8.0″ IPS LCD display, Intel Atom Z3735G chipset, 5 MP primary camera, 4550 mAh battery, 32 GB storage, 1000 MB RAM."},{"id":7136,"name":"Iconia Tab A3-A20","slug":"acer_iconia_tab_a3_a20-7136","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-a3-20.jpg","description":"Acer Iconia Tab A3-A20 Android tablet. Announced Oct 2014. Features 10.1″ LED-backlit IPS LCD display, MT8127 chipset, 5 MP primary camera, 2 MP front camera, 5910 mAh battery, 16 GB storage, 1000 MB RAM, Corning Gorilla Glass 4."},{"id":7135,"name":"Iconia Tab A3-A20FHD","slug":"acer_iconia_tab_a3_a20fhd-7135","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-a3-20.jpg","description":"Acer Iconia Tab A3-A20FHD Android tablet. Announced Oct 2014. Features 10.1″ LED-backlit IPS LCD display, MT8127 chipset, 5 MP primary camera, 2 MP front camera, 5910 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 4."},{"id":7072,"name":"Liquid Jade Z","slug":"acer_liquid_jade_z-7072","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-jade-z.jpg","description":"Acer Liquid Jade Z Android smartphone. Announced Mar 2015. Features 5.0″ IPS LCD display, MT6732 chipset, 13 MP primary camera, 5 MP front camera, 2300 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3."},{"id":7073,"name":"Liquid Z520","slug":"acer_liquid_z520-7073","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-z520.jpg","description":"Acer Liquid Z520 Android smartphone. Announced Mar 2015. Features 5.0″ TFT display, MT6582M chipset, 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 16 GB storage, 2 GB RAM."},{"id":7074,"name":"Liquid Z220","slug":"acer_liquid_z220-7074","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-z220.jpg","description":"Acer Liquid Z220 Android smartphone. Announced Mar 2015. Features 4.0″  display, Snapdragon 200 chipset, 5 MP primary camera, 2 MP front camera, 1300 mAh battery, 8 GB storage, 1000 MB RAM."},{"id":7071,"name":"Liquid M220","slug":"acer_liquid_m220-7071","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-m220.jpg","description":"Acer Liquid M220 Windows Mobile smartphone. Announced Mar 2015. Features 4.0″ TFT display, Snapdragon 200 chipset, 5 MP primary camera, 2 MP front camera, 1300 mAh battery, 8 GB storage, 1000 MB RAM."},{"id":6912,"name":"Liquid Z410","slug":"acer_liquid_z410-6912","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-z410.jpg","description":"Acer Liquid Z410 Android smartphone. Announced Jan 2015. Features 4.5″ IPS LCD display, MT6732M chipset, 5 MP primary camera, 2 MP front camera, 2000 mAh battery, 16 GB storage, 2 GB RAM."},{"id":6864,"name":"Liquid Jade S","slug":"acer_liquid_jade_s-6864","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-jade-s-s56.jpg","description":"Acer Liquid Jade S Android smartphone. Announced Dec 2014. Features 5.0″ IPS LCD display, MT6752M chipset, 13 MP primary camera, 5 MP front camera, 2300 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3."},{"id":6635,"name":"Liquid Z500","slug":"acer_liquid_z500-6635","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-z5.jpg","description":"Acer Liquid Z500 Android smartphone. Announced Sep 2014. Features 5.0″ IPS LCD display, MT6582 chipset, 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3."},{"id":6419,"name":"Liquid X1","slug":"acer_liquid_x1-6419","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-x1.jpg","description":"Acer Liquid X1 Android smartphone. Announced Jun 2014. Features 5.7″ IPS LCD display, MT6592 chipset, 13 MP primary camera, 2 MP front camera, 2700 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3."},{"id":6423,"name":"Liquid Jade","slug":"acer_liquid_jade-6423","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-jade.jpg","description":"Acer Liquid Jade Android smartphone. Announced Jun 2014. Features 5.0″ IPS LCD display, MT6582 chipset, 13 MP primary camera, 2 MP front camera, 2100 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3."},{"id":6420,"name":"Liquid E700","slug":"acer_liquid_e700-6420","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-e700.jpg","description":"Acer Liquid E700 Android smartphone. Announced Jun 2014. Features 5.0″ IPS LCD display, MT6582 chipset, 8 MP primary camera, 2 MP front camera, 3500 mAh battery, 16 GB storage, 2 GB RAM."},{"id":6421,"name":"Liquid E600","slug":"acer_liquid_e600-6421","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-e600-1.jpg","description":"Acer Liquid E600 Android smartphone. Announced Jun 2014. Features 5.0″ IPS LCD display, Snapdragon 400 chipset, 8 MP primary camera, 2 MP front camera, 2500 mAh battery, 16 GB storage, 2 GB RAM."},{"id":6422,"name":"Liquid Z200","slug":"acer_liquid_z200-6422","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-z200.jpg","description":"Acer Liquid Z200 Android smartphone. Announced Jun 2014. Features 4.0″ TFT display, MT6572M chipset, 2 MP primary camera, 1300 mAh battery, 4 GB storage, 512 MB RAM."},{"id":6424,"name":"Iconia Tab 8 A1-840FHD","slug":"acer_iconia_tab_8_a1_840fhd-6424","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-iconia-tab-8-2014-1.jpg","description":"Acer Iconia Tab 8 A1-840FHD Android tablet. Announced Jun 2014. Features 8.0″ IPS LCD display, Intel Atom Z3745 chipset, 5 MP primary camera, 2 MP front camera, 4600 mAh battery, 32 GB storage, 2 GB RAM."},{"id":6342,"name":"Iconia Tab 7 A1-713HD","slug":"acer_iconia_tab_7_a1_713hd-6342","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-iconia-tab-7.jpg","description":"Acer Iconia Tab 7 A1-713HD Android tablet. Announced Apr 2014. Features 7.0″ IPS LCD display, 5 MP primary camera, 3400 mAh battery, 16 GB storage, 1000 MB RAM."},{"id":6343,"name":"Iconia Tab 7 A1-713","slug":"acer_iconia_tab_7_a1_713-6343","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-iconia-tab-7.jpg","description":"Acer Iconia Tab 7 A1-713 Android tablet. Announced Apr 2014. Features 7.0″ TFT display, 2 MP primary camera, 3400 mAh battery, 16 GB storage, 1000 MB RAM."},{"id":6341,"name":"Iconia One 7 B1-730","slug":"acer_iconia_one_7_b1_730-6341","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-iconia-one-7.jpg","description":"Acer Iconia One 7 B1-730 Android tablet. Announced Apr 2014. Features 7.0″ IPS LCD display, Intel Atom Z2560 chipset, 5 MP primary camera, 3700 mAh battery, 8 GB storage, 1000 MB RAM."},{"id":6680,"name":"Liquid E3 Duo Plus","slug":"acer_liquid_e3_duo_plus-6680","image":"https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-e3-plus.jpg","description":"Acer Liquid E3 Duo Plus Android smartphone. Announced Q3 2014. Features 4.7″ IPS LCD display, MT6589 chipset, 13 MP primary camera, 2 MP front camera, 2000 mAh battery, 16 GB storage, 2 GB RAM."}],"current_page":1,"total_page":3},"error":null}
+{
+    "data": {
+        "items": [
+            {
+                "id": 9139,
+                "name": "Chromebook Tab 10",
+                "slug": "acer_chromebook_tab_10-9139",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-chromebook-tab-10.jpg",
+                "description": "Acer Chromebook Tab 10 tablet. Announced Mar 2018. Features 9.7″ IPS LCD display, Rockchip RK3399 chipset, 5 MP primary camera, 2 MP front camera, 4500 mAh battery, 32 GB storage, 4 GB RAM."
+            },
+            {
+                "id": 8306,
+                "name": "Iconia Talk S",
+                "slug": "acer_iconia_talk_s-8306",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-iconia-talk-s.jpg",
+                "description": "Acer Iconia Talk S Android tablet. Announced Aug 2016. Features 7.0″ IPS LCD display, MT8735 chipset, 13 MP primary camera, 2 MP front camera, 3400 mAh battery, 32 GB storage, 2 GB RAM."
+            },
+            {
+                "id": 8305,
+                "name": "Liquid Z6 Plus",
+                "slug": "acer_liquid_z6_plus-8305",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-z6-plus.jpg",
+                "description": "Acer Liquid Z6 Plus Android smartphone. Announced Aug 2016. Features 5.5″ IPS LCD display, MT6753 chipset, 13 MP primary camera, 5 MP front camera, 4080 mAh battery, 32 GB storage, 3 GB RAM."
+            },
+            {
+                "id": 8304,
+                "name": "Liquid Z6",
+                "slug": "acer_liquid_z6-8304",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-z6.jpg",
+                "description": "Acer Liquid Z6 Android smartphone. Announced Aug 2016. Features 5.0″ IPS LCD display, MT6737 chipset, 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM."
+            },
+            {
+                "id": 8080,
+                "name": "Iconia Tab 10 A3-A40",
+                "slug": "acer_iconia_tab_10_a3_a40-8080",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-iconia-tab-10-a3-a40.jpg",
+                "description": "Acer Iconia Tab 10 A3-A40 Android tablet. Announced Apr 2016. Features 10.1″ IPS LCD display, MT8163A chipset, 5 MP primary camera, 2 MP front camera, 6100 mAh battery, 64 GB storage, 2 GB RAM."
+            },
+            {
+                "id": 8034,
+                "name": "Liquid X2",
+                "slug": "acer_liquid_x2-8034",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-x2-1.jpg",
+                "description": "Acer Liquid X2 Android smartphone. Announced Apr 2015. Features 5.5″ IPS LCD display, MT6753 chipset, 13 MP primary camera, 13 MP front camera, 4020 mAh battery, 32 GB storage, 3 GB RAM."
+            },
+            {
+                "id": 7956,
+                "name": "Liquid Jade 2",
+                "slug": "acer_liquid_jade_2-7956",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-jade-2.jpg",
+                "description": "Acer Liquid Jade 2 Android smartphone. Announced Feb 2016. Features 5.5″ Super AMOLED display, Snapdragon 808 chipset, 21 MP primary camera, 8 MP front camera, 3000 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass 4."
+            },
+            {
+                "id": 8059,
+                "name": "Liquid Zest Plus",
+                "slug": "acer_liquid_zest_plus-8059",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-zest-plus-z628.jpg",
+                "description": "Acer Liquid Zest Plus Android smartphone. Announced Apr 2016. Features 5.5″ IPS LCD display, MT6735 chipset, 13 MP primary camera, 5 MP front camera, 5000 mAh battery, 16 GB storage, 2 GB RAM."
+            },
+            {
+                "id": 7955,
+                "name": "Liquid Zest",
+                "slug": "acer_liquid_zest-7955",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-zest.jpg",
+                "description": "Acer Liquid Zest Android smartphone. Announced Feb 2016. Features 5.0″ IPS LCD display, MT6580 chipset, 8 MP primary camera, 5 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM."
+            },
+            {
+                "id": 7750,
+                "name": "Predator 8",
+                "slug": "acer_predator_8-7750",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-predator-8.jpg",
+                "description": "Acer Predator 8 Android tablet. Announced Sep 2015. Features 8.0″ IPS LCD display, Intel Atom x7-Z8700 chipset, 5 MP primary camera, 2 MP front camera, 4420 mAh battery, 64 GB storage, 2 GB RAM."
+            },
+            {
+                "id": 7650,
+                "name": "Liquid Jade Primo",
+                "slug": "acer_liquid_jade_primo-7650",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-jade-primo-.jpg",
+                "description": "Acer Liquid Jade Primo Windows Mobile smartphone. Announced Sep 2015. Features 5.5″ AMOLED display, Snapdragon 808 chipset, 21 MP primary camera, 8 MP front camera, 2870 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass (unspecified version)."
+            },
+            {
+                "id": 7530,
+                "name": "Liquid Z330",
+                "slug": "acer_liquid_z330-7530",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-z320-z330.jpg",
+                "description": "Acer Liquid Z330 Android smartphone. Announced Sep 2015. Features 4.5″ IPS LCD display, Snapdragon 210 chipset, 5 MP primary camera, 5 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM."
+            },
+            {
+                "id": 7531,
+                "name": "Liquid Z320",
+                "slug": "acer_liquid_z320-7531",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-z320-z330.jpg",
+                "description": "Acer Liquid Z320 Android smartphone. Announced Sep 2015. Features 4.5″ IPS LCD display, Snapdragon 210 chipset, 5 MP primary camera, 2 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM."
+            },
+            {
+                "id": 7529,
+                "name": "Liquid Z630S",
+                "slug": "acer_liquid_z630s-7529",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-z630.jpg",
+                "description": "Acer Liquid Z630S Android smartphone. Announced Sep 2015. Features 5.5″ IPS LCD display, MT6753 chipset, 8 MP primary camera, 8 MP front camera, 4000 mAh battery, 32 GB storage, 3 GB RAM."
+            },
+            {
+                "id": 7528,
+                "name": "Liquid Z630",
+                "slug": "acer_liquid_z630-7528",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-z630.jpg",
+                "description": "Acer Liquid Z630 Android smartphone. Announced Sep 2015. Features 5.5″ IPS LCD display, MT6735 chipset, 8 MP primary camera, 8 MP front camera, 4000 mAh battery, 16 GB storage, 2 GB RAM."
+            },
+            {
+                "id": 7527,
+                "name": "Liquid Z530S",
+                "slug": "acer_liquid_z530s-7527",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-z530.jpg",
+                "description": "Acer Liquid Z530S Android smartphone. Announced Sep 2015. Features 5.0″ IPS LCD display, MT6753 chipset, 8 MP primary camera, 8 MP front camera, 2420 mAh battery, 32 GB storage, 3 GB RAM."
+            },
+            {
+                "id": 7526,
+                "name": "Liquid Z530",
+                "slug": "acer_liquid_z530-7526",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-z530.jpg",
+                "description": "Acer Liquid Z530 Android smartphone. Announced Sep 2015. Features 5.0″ IPS LCD display, MT6735 chipset, 8 MP primary camera, 8 MP front camera, 2420 mAh battery, 16 GB storage, 2 GB RAM."
+            },
+            {
+                "id": 7524,
+                "name": "Liquid M330",
+                "slug": "acer_liquid_m330-7524",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-m320-m330.jpg",
+                "description": "Acer Liquid M330 Windows Mobile smartphone. Announced Sep 2015. Features 4.5″ IPS LCD display, Snapdragon 210 chipset, 5 MP primary camera, 5 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM."
+            },
+            {
+                "id": 7525,
+                "name": "Liquid M320",
+                "slug": "acer_liquid_m320-7525",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-m320-m330.jpg",
+                "description": "Acer Liquid M320 Windows Mobile smartphone. Announced Sep 2015. Features 4.5″ IPS LCD display, Snapdragon 210 chipset, 5 MP primary camera, 2 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM."
+            },
+            {
+                "id": 7218,
+                "name": "Iconia Tab 10 A3-A30",
+                "slug": "acer_iconia_tab_10_a3_a30-7218",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-iconia-tab-10-a3-a30-new.png",
+                "description": "Acer Iconia Tab 10 A3-A30 Android tablet. Announced Apr 2015. Features 10.1″ LED-backlit IPS LCD display, Intel Atom Z3735F chipset, 5 MP primary camera, 2 MP front camera, 5910 mAh battery, 64 GB storage, 2 GB RAM, Corning Gorilla Glass 4."
+            },
+            {
+                "id": 7217,
+                "name": "Iconia One 8 B1-820",
+                "slug": "acer_iconia_one_8_b1_820-7217",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-iconia-one-8-b1-820.jpg",
+                "description": "Acer Iconia One 8 B1-820 Android tablet. Announced Apr 2015. Features 8.0″ IPS LCD display, Intel Atom Z3735G chipset, 5 MP primary camera, 4550 mAh battery, 32 GB storage, 1000 MB RAM."
+            },
+            {
+                "id": 7136,
+                "name": "Iconia Tab A3-A20",
+                "slug": "acer_iconia_tab_a3_a20-7136",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-a3-20.jpg",
+                "description": "Acer Iconia Tab A3-A20 Android tablet. Announced Oct 2014. Features 10.1″ LED-backlit IPS LCD display, MT8127 chipset, 5 MP primary camera, 2 MP front camera, 5910 mAh battery, 16 GB storage, 1000 MB RAM, Corning Gorilla Glass 4."
+            },
+            {
+                "id": 7135,
+                "name": "Iconia Tab A3-A20FHD",
+                "slug": "acer_iconia_tab_a3_a20fhd-7135",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-a3-20.jpg",
+                "description": "Acer Iconia Tab A3-A20FHD Android tablet. Announced Oct 2014. Features 10.1″ LED-backlit IPS LCD display, MT8127 chipset, 5 MP primary camera, 2 MP front camera, 5910 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 4."
+            },
+            {
+                "id": 7072,
+                "name": "Liquid Jade Z",
+                "slug": "acer_liquid_jade_z-7072",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-jade-z.jpg",
+                "description": "Acer Liquid Jade Z Android smartphone. Announced Mar 2015. Features 5.0″ IPS LCD display, MT6732 chipset, 13 MP primary camera, 5 MP front camera, 2300 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3."
+            },
+            {
+                "id": 7073,
+                "name": "Liquid Z520",
+                "slug": "acer_liquid_z520-7073",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-z520.jpg",
+                "description": "Acer Liquid Z520 Android smartphone. Announced Mar 2015. Features 5.0″ TFT display, MT6582M chipset, 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 16 GB storage, 2 GB RAM."
+            },
+            {
+                "id": 7074,
+                "name": "Liquid Z220",
+                "slug": "acer_liquid_z220-7074",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-z220.jpg",
+                "description": "Acer Liquid Z220 Android smartphone. Announced Mar 2015. Features 4.0″  display, Snapdragon 200 chipset, 5 MP primary camera, 2 MP front camera, 1300 mAh battery, 8 GB storage, 1000 MB RAM."
+            },
+            {
+                "id": 7071,
+                "name": "Liquid M220",
+                "slug": "acer_liquid_m220-7071",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-m220.jpg",
+                "description": "Acer Liquid M220 Windows Mobile smartphone. Announced Mar 2015. Features 4.0″ TFT display, Snapdragon 200 chipset, 5 MP primary camera, 2 MP front camera, 1300 mAh battery, 8 GB storage, 1000 MB RAM."
+            },
+            {
+                "id": 6912,
+                "name": "Liquid Z410",
+                "slug": "acer_liquid_z410-6912",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-z410.jpg",
+                "description": "Acer Liquid Z410 Android smartphone. Announced Jan 2015. Features 4.5″ IPS LCD display, MT6732M chipset, 5 MP primary camera, 2 MP front camera, 2000 mAh battery, 16 GB storage, 2 GB RAM."
+            },
+            {
+                "id": 6864,
+                "name": "Liquid Jade S",
+                "slug": "acer_liquid_jade_s-6864",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-jade-s-s56.jpg",
+                "description": "Acer Liquid Jade S Android smartphone. Announced Dec 2014. Features 5.0″ IPS LCD display, MT6752M chipset, 13 MP primary camera, 5 MP front camera, 2300 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3."
+            },
+            {
+                "id": 6635,
+                "name": "Liquid Z500",
+                "slug": "acer_liquid_z500-6635",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-z5.jpg",
+                "description": "Acer Liquid Z500 Android smartphone. Announced Sep 2014. Features 5.0″ IPS LCD display, MT6582 chipset, 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3."
+            },
+            {
+                "id": 6419,
+                "name": "Liquid X1",
+                "slug": "acer_liquid_x1-6419",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-x1.jpg",
+                "description": "Acer Liquid X1 Android smartphone. Announced Jun 2014. Features 5.7″ IPS LCD display, MT6592 chipset, 13 MP primary camera, 2 MP front camera, 2700 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3."
+            },
+            {
+                "id": 6423,
+                "name": "Liquid Jade",
+                "slug": "acer_liquid_jade-6423",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-jade.jpg",
+                "description": "Acer Liquid Jade Android smartphone. Announced Jun 2014. Features 5.0″ IPS LCD display, MT6582 chipset, 13 MP primary camera, 2 MP front camera, 2100 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3."
+            },
+            {
+                "id": 6420,
+                "name": "Liquid E700",
+                "slug": "acer_liquid_e700-6420",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-e700.jpg",
+                "description": "Acer Liquid E700 Android smartphone. Announced Jun 2014. Features 5.0″ IPS LCD display, MT6582 chipset, 8 MP primary camera, 2 MP front camera, 3500 mAh battery, 16 GB storage, 2 GB RAM."
+            },
+            {
+                "id": 6421,
+                "name": "Liquid E600",
+                "slug": "acer_liquid_e600-6421",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-e600-1.jpg",
+                "description": "Acer Liquid E600 Android smartphone. Announced Jun 2014. Features 5.0″ IPS LCD display, Snapdragon 400 chipset, 8 MP primary camera, 2 MP front camera, 2500 mAh battery, 16 GB storage, 2 GB RAM."
+            },
+            {
+                "id": 6422,
+                "name": "Liquid Z200",
+                "slug": "acer_liquid_z200-6422",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-z200.jpg",
+                "description": "Acer Liquid Z200 Android smartphone. Announced Jun 2014. Features 4.0″ TFT display, MT6572M chipset, 2 MP primary camera, 1300 mAh battery, 4 GB storage, 512 MB RAM."
+            },
+            {
+                "id": 6424,
+                "name": "Iconia Tab 8 A1-840FHD",
+                "slug": "acer_iconia_tab_8_a1_840fhd-6424",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-iconia-tab-8-2014-1.jpg",
+                "description": "Acer Iconia Tab 8 A1-840FHD Android tablet. Announced Jun 2014. Features 8.0″ IPS LCD display, Intel Atom Z3745 chipset, 5 MP primary camera, 2 MP front camera, 4600 mAh battery, 32 GB storage, 2 GB RAM."
+            },
+            {
+                "id": 6342,
+                "name": "Iconia Tab 7 A1-713HD",
+                "slug": "acer_iconia_tab_7_a1_713hd-6342",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-iconia-tab-7.jpg",
+                "description": "Acer Iconia Tab 7 A1-713HD Android tablet. Announced Apr 2014. Features 7.0″ IPS LCD display, 5 MP primary camera, 3400 mAh battery, 16 GB storage, 1000 MB RAM."
+            },
+            {
+                "id": 6343,
+                "name": "Iconia Tab 7 A1-713",
+                "slug": "acer_iconia_tab_7_a1_713-6343",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-iconia-tab-7.jpg",
+                "description": "Acer Iconia Tab 7 A1-713 Android tablet. Announced Apr 2014. Features 7.0″ TFT display, 2 MP primary camera, 3400 mAh battery, 16 GB storage, 1000 MB RAM."
+            },
+            {
+                "id": 6341,
+                "name": "Iconia One 7 B1-730",
+                "slug": "acer_iconia_one_7_b1_730-6341",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-iconia-one-7.jpg",
+                "description": "Acer Iconia One 7 B1-730 Android tablet. Announced Apr 2014. Features 7.0″ IPS LCD display, Intel Atom Z2560 chipset, 5 MP primary camera, 3700 mAh battery, 8 GB storage, 1000 MB RAM."
+            },
+            {
+                "id": 6680,
+                "name": "Liquid E3 Duo Plus",
+                "slug": "acer_liquid_e3_duo_plus-6680",
+                "image": "https://cdn2.gsmarena.com/vv/bigpic/acer-liquid-e3-plus.jpg",
+                "description": "Acer Liquid E3 Duo Plus Android smartphone. Announced Q3 2014. Features 4.7″ IPS LCD display, MT6589 chipset, 13 MP primary camera, 2 MP front camera, 2000 mAh battery, 16 GB storage, 2 GB RAM."
+            }
+        ],
+        "current_page": 1,
+        "total_page": 3
+    },
+    "error": null
+}

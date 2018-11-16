@@ -6,6 +6,7 @@ using System.Net.Http;
 using Newtonsoft.Json;
 using ConsoleApp.Models;
 using System.Linq;
+using ConsoleApp;
 
 namespace Documents
 {
@@ -25,8 +26,9 @@ namespace Documents
             var phonesResponse = await client.GetAsync($"http://localhost:8080/devices/{brands.Data.FirstOrDefault().Slug}?page=1");
             var phonesContent = phonesResponse.Content.ReadAsStringAsync();
             var phones = JsonConvert.DeserializeObject<PhonesResponse>(phonesContent.Result);
-            File.WriteAllText("Phones.txt", JsonConvert.SerializeObject(phones));
+            File.WriteAllText("PhonesResponse.txt", JsonConvert.SerializeObject(phones));
             // System.Console.WriteLine(brands.Data.Sum(b => b.NumberOfDevices));
+            System.Console.WriteLine(GsmArenaApi.GetPhonesFromTheBrand(GsmArenaApi.GetAllBrands().Result.Data.FirstOrDefault().Slug).Result.Data.Items.FirstOrDefault().Slug);
         }
     }
 }
