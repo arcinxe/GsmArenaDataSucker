@@ -1,0 +1,11 @@
+/home/arcin/Documents/ConsoleApp/obj/Debug/netcoreapp2.1/Documents.csprojAssemblyReference.cache
+/home/arcin/Documents/ConsoleApp/obj/Debug/netcoreapp2.1/Documents.csproj.CoreCompileInputs.cache
+/home/arcin/Documents/ConsoleApp/obj/Debug/netcoreapp2.1/Documents.AssemblyInfoInputs.cache
+/home/arcin/Documents/ConsoleApp/obj/Debug/netcoreapp2.1/Documents.AssemblyInfo.cs
+/home/arcin/Documents/ConsoleApp/bin/Debug/netcoreapp2.1/Documents.deps.json
+/home/arcin/Documents/ConsoleApp/bin/Debug/netcoreapp2.1/Documents.runtimeconfig.json
+/home/arcin/Documents/ConsoleApp/bin/Debug/netcoreapp2.1/Documents.runtimeconfig.dev.json
+/home/arcin/Documents/ConsoleApp/bin/Debug/netcoreapp2.1/Documents.dll
+/home/arcin/Documents/ConsoleApp/bin/Debug/netcoreapp2.1/Documents.pdb
+/home/arcin/Documents/ConsoleApp/obj/Debug/netcoreapp2.1/Documents.dll
+/home/arcin/Documents/ConsoleApp/obj/Debug/netcoreapp2.1/Documents.pdb
