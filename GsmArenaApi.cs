@@ -29,9 +29,15 @@ namespace ConsoleApp
             var phoneResponse = await _client.GetAsync($"http://localhost:8080/specs/{slug}");
             phoneResponse.EnsureSuccessStatusCode();
             var phoneContent = phoneResponse.Content.ReadAsStringAsync();
-            File.WriteAllText("rawPhoneDetails.json", phoneContent.Result);
             var phone = JsonConvert.DeserializeObject<PhoneDetailsResponse>(phoneContent.Result);
             return phone;
+        }
+
+        public static async Task<string> GetRawPhoneDetails(string slug){
+            var phoneResponse = await _client.GetAsync($"http://localhost:8080/specs/{slug}");
+            phoneResponse.EnsureSuccessStatusCode();
+            var phoneContent = phoneResponse.Content.ReadAsStringAsync();
+            return phoneContent.Result;
         }
     }
 }
