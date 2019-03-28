@@ -19,9 +19,12 @@ namespace ConsoleApp.Models
 
     public partial class Data
     {
+        [JsonProperty("id")]
+        public string Id { get; set; }
         [JsonProperty("brand")]
         public string Brand { get; set; }
-
+        [JsonProperty("slug")]
+        public string Slug { get; set; }
         [JsonProperty("device_name")]
         public string DeviceName { get; set; }
 

@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using System.Net.Http;
 using System.Threading.Tasks;
 using ConsoleApp.Models;
@@ -50,33 +51,42 @@ namespace ConsoleApp
         {
             var brands = GsmArenaApi.GetAllBrands().Result.Data;
             var phones = new List<PhonesResponse.Phone>();
-            foreach (var brand in brands)
-            {
-                var totalPages = 1;
-                var currentPage = 1;
-                do
-                {
-                    try
-                    {
-                        var brandPhonesResponse = GsmArenaApi.GetPhonesFromTheBrand(brand.Slug, currentPage).Result;
-                        var brandPhones = brandPhonesResponse.Data.Items;
-                        totalPages = (int)brandPhonesResponse.Data.TotalPage;
-                        currentPage++;
-                        foreach (var phone in brandPhones)
-                        {
-                            phone.Brand = brand.Name;
-                            phones.Add(phone);
-                        }
-                    }
-                    catch (Exception e)
-                    {
-                        System.Console.WriteLine($"Brand {brand.Name} Fuckt up");
-                        System.Console.WriteLine(e.ToString());
-                    }
+            var brandCount = 1;
 
-                } while (currentPage < totalPages);
-            }
-            File.WriteAllText("AllPhones.json", JsonConvert.SerializeObject(phones));
+                foreach (var brand in brands)
+                {
+                    System.Console.WriteLine($"{brandCount++}/{brands.Length} ");
+
+                    var phoneCount = 0;
+                    var totalPages = 0;
+                    var currentPage = 1;
+                    do
+                    {
+                        try
+                        {
+                            var brandPhonesResponse = GsmArenaApi.GetPhonesFromTheBrand(brand.Slug, currentPage).Result;
+                            var brandPhones = brandPhonesResponse.Data.Items;
+                            totalPages = (int)brandPhonesResponse.Data.TotalPage;
+                            System.Console.WriteLine($"{brand.Name} ({currentPage} page out of {totalPages})");
+                            currentPage++;
+                            foreach (var phone in brandPhones)
+                            {
+                                phone.Brand = brand.Name;
+                                phones.Add(phone);
+                                phoneCount++;
+                            }
+                        }
+                        catch (Exception e)
+                        {
+                            System.Console.WriteLine($"Brand {brand.Name} Failed");
+                            System.Console.WriteLine(e.ToString());
+                        }
+
+                    } while (currentPage <= totalPages);
+                    System.Console.WriteLine($"Total amount of {brand.Name} devices: {phoneCount}");
+                }
+
+            File.WriteAllText("AllPhones.json", JsonConvert.SerializeObject(phones.OrderByDescending(p => p.Id),Formatting.Indented));
         }
 
         public static void SaveAllPhonesDetails()
@@ -85,31 +95,32 @@ namespace ConsoleApp
             .DeserializeObject<List<PhonesResponse.Phone>>(File.ReadAllText("AllPhones.json"));
             File.AppendAllText("AllPhonesDetails.json", "[\n");
             var counter = 0;
-            var fuckedUp = 0;
-            foreach (var phone in phones)
-            {
-                System.Console.Write($"{counter.ToString("D4")}/8291");
-                Console.ForegroundColor = ConsoleColor.Red;
-                System.Console.Write($"{(fuckedUp > 0 ? "-" + fuckedUp : "")}");
-                Console.ResetColor();
-                System.Console.WriteLine($"; {phone.Slug};\n{phone.Brand} - {phone.Name}");
-                counter++;
-                try
-                {
-                    var phoneDetails = GsmArenaApi.GetRawPhoneDetails(phone.Slug).Result;
-                    File.AppendAllText("AllPhonesDetails.json", phoneDetails + ",\n");
-                    File.AppendAllText("Succesful.txt", $"{phone.Slug}; {phone.Brand} - {phone.Name}\n");
-                }
-                catch (System.Exception)
-                {
-                    fuckedUp++;
-                    Console.ForegroundColor = ConsoleColor.Red;
-                    System.Console.WriteLine($"Fucked up x{fuckedUp}!!");
-                    Console.ResetColor();
-                    File.AppendAllText("FuckedUp.txt", $"{phone.Slug}; {phone.Brand} - {phone.Name}\n");
+            var failed = 0;
 
+                foreach (var phone in phones)
+                {
+                    System.Console.Write($"{counter.ToString("D4")}/8291");
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    System.Console.Write($"{(failed > 0 ? "-" + failed : "")}");
+                    Console.ResetColor();
+                    System.Console.WriteLine($"; {phone.Slug};\n{phone.Brand} - {phone.Name}");
+                    counter++;
+                    try
+                    {
+                        var phoneDetails = GsmArenaApi.GetRawPhoneDetails(phone.Slug).Result;
+                        File.AppendAllText("AllPhonesDetails.json", phoneDetails.Insert(9, $"{(counter>1?"\n,":"")}\"id\":\"{phone.Id}\",\"slug\":\"{phone.Slug}\",")/*  + ",\n" */);
+                        File.AppendAllText("Succesful.txt", $"{phone.Slug}; {phone.Brand} - {phone.Name}\n");
+                    }
+                    catch (System.Exception)
+                    {
+                        failed++;
+                        Console.ForegroundColor = ConsoleColor.Red;
+                        System.Console.WriteLine($"Failed x{failed}!!");
+                        Console.ResetColor();
+                        File.AppendAllText("failed.txt", $"{phone.Slug}; {phone.Brand} - {phone.Name}\n");
+
+                    }
                 }
-            }
             File.AppendAllText("AllPhonesDetails.json", "\n]");
         }
     }

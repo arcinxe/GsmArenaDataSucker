@@ -15,7 +15,10 @@ namespace Documents
     {
         static void Main(string[] args)
         {
-            FonoApi.SaveAllPhoneDetails();
+            System.Console.WriteLine("STUFF STARTED!");
+            GsmArenaApi.SaveAllPhonesList();
+            GsmArenaApi.SaveAllPhonesDetails();
+            // FonoApi.SaveAllPhoneDetails();
         }
     }
 }
