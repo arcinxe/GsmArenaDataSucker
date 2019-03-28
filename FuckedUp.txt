@@ -1,0 +1,956 @@
+apple_ipad_air_(2019)-9638; Apple - iPad Air (2019)
+apple_ipad_mini_(2019)-9637; Apple - iPad mini (2019)
+asus_zenfone_max_plus_(m2)_zb634kl-9634; Asus - Zenfone Max Plus (M2) ZB634KL
+oppo_a5s_(ax5s)-9626; Oppo - A5s (AX5s)
+huawei_y7_(2019)-9625; Huawei - Y7 (2019)
+huawei_y6_(2019)-9620; Huawei - Y6 (2019)
+alcatel_3_(2019)-9599; alcatel - 3 (2019)
+samsung_galaxy_tab_a_10_1_(2019)-9582; Samsung - Galaxy Tab A 10.1 (2019)
+huawei_y6_pro_(2019)-9576; Huawei - Y6 Pro (2019)
+blu_studio_x8_hd_(2019)-9565; BLU - Studio X8 HD (2019)
+realme_c1_(2019)-9539; Realme - C1 (2019)
+huawei_y7_prime_(2019)-9531; Huawei - Y7 Prime (2019)
+vivo_y55l_(vivo_1603)-9522; vivo - Y55L (vivo 1603)
+vivo_y91_(mediatek)-9520; vivo - Y91 (Mediatek)
+blu_vivo_one_plus_(2019)-9518; BLU - Vivo One Plus (2019)
+alcatel_1c_(2019)-9511; alcatel - 1c (2019)
+alcatel_1x_(2019)-9510; alcatel - 1x (2019)
+huawei_y6_prime_(2018)-9502; Huawei - Y6 Prime (2018)
+huawei_y5_lite_(2018)-9501; Huawei - Y5 lite (2018)
+huawei_y7_pro_(2019)-9500; Huawei - Y7 Pro (2019)
+vivo_y93_(mediatek)-9496; vivo - Y93 (Mediatek)
+asus_zenfone_max_(m2)_zb633kl-9437; Asus - Zenfone Max (M2) ZB633KL
+asus_zenfone_max_pro_(m2)_zb631kl-9410; Asus - Zenfone Max Pro (M2) ZB631KL
+nokia_106_(2018)-9405; Nokia - 106 (2018)
+apple_ipad_pro_12_9_(2018)-9387; Apple - iPad Pro 12.9 (2018)
+asus_zenfone_max_(m1)_zb556kl-9373; Asus - Zenfone Max (M1) ZB556KL
+asus_zenfone_lite_(l1)_za551kl-9372; Asus - ZenFone Lite (L1) ZA551KL
+blu_studio_mega_(2018)-9360; BLU - Studio Mega (2018)
+blu_grand_m2_(2018)-9359; BLU - Grand M2 (2018)
+samsung_galaxy_a9_(2018)-9344; Samsung - Galaxy A9 (2018)
+nokia_8_1_(nokia_x7)-9342; Nokia - 8.1 (Nokia X7)
+samsung_galaxy_a7_(2018)-9340; Samsung - Galaxy A7 (2018)
+huawei_y9_(2019)-9324; Huawei - Y9 (2019)
+motorola_one_(p30_play)-9310; Motorola - One (P30 Play)
+vivo_v11_(v11_pro)-9298; vivo - V11 (V11 Pro)
+oppo_f9_(f9_pro)-9286; Oppo - F9 (F9 Pro)
+lava_z91_(2gb)-9266; Lava - Z91 (2GB)
+huawei_y7_(2018)-9265; Huawei - Y7 (2018)
+xiaomi_mi_a2_lite_(redmi_6_pro)-9247; Xiaomi - Mi A2 Lite (Redmi 6 Pro)
+nokia_5_1_plus_(nokia_x5)-9246; Nokia - 5.1 Plus (Nokia X5)
+energizer_energy_e11-9239; Energizer - Energy E11
+samsung_galaxy_j7_(2018)-9234; Samsung - Galaxy J7 (2018)
+honor_9n_(9i)-9229; Honor - 9N (9i)
+lenovo_k5_note_(2018)-9226; Lenovo - K5 Note (2018)
+motorola_one_power_(p30_note)-9221; Motorola - One Power (P30 Note)
+samsung_galaxy_a8_star_(a9_star)-9220; Samsung - Galaxy A8 Star (A9 Star)
+huawei_y5_prime_(2018)-9209; Huawei - Y5 Prime (2018)
+huawei_y3_(2018)-9196; Huawei - Y3 (2018)
+asus_zenfone_live_(l1)_za550kl-9194; Asus - ZenFone Live (L1) ZA550KL
+huawei_y7_pro_(2018)-9188; Huawei - Y7 Pro (2018)
+xiaomi_redmi_s2_(redmi_y2)-9185; Xiaomi - Redmi S2 (Redmi Y2)
+nokia_6_1_plus_(nokia_x6)-9178; Nokia - 6.1 Plus (Nokia X6)
+asus_zenfone_max_pro_(m1)_zb601kl_zb602k-9173; Asus - Zenfone Max Pro (M1) ZB601KL/ZB602K
+huawei_y6_(2018)-9162; Huawei - Y6 (2018)
+samsung_galaxy_a6+_(2018)-9156; Samsung - Galaxy A6+ (2018)
+samsung_galaxy_a6_(2018)-9155; Samsung - Galaxy A6 (2018)
+apple_ipad_9_7_(2018)-9142; Apple - iPad 9.7 (2018)
+xiaomi_mi_a2_(mi_6x)-9140; Xiaomi - Mi A2 (Mi 6X)
+plum_flipper_(2018)-9126; Plum - Flipper (2018)
+huawei_y7_prime_(2018)-9114; Huawei - Y7 Prime (2018)
+huawei_y9_(2018)-9112; Huawei - Y9 (2018)
+asus_zenfone_max_(m1)_zb555kl-9097; Asus - Zenfone Max (M1) ZB555KL
+zte_blade_v9_vita-9088; ZTE - Blade V9 Vita
+huawei_mediapad_m5_10_(pro)-9080; Huawei - MediaPad M5 10 (Pro)
+lg_k10_(2018)-9074; LG - K10 (2018)
+lg_k8_(2018)-9073; LG - K8 (2018)
+oppo_a71_(2018)-9051; Oppo - A71 (2018)
+vivo_x20_plus_ud-9005; vivo - X20 Plus UD
+alcatel_3v-9004; alcatel - 3v
+energizer_energy_100_(2017)-8982; Energizer - Energy 100 (2017)
+xiaomi_redmi_note_5_(redmi_5_plus)-8959; Xiaomi - Redmi Note 5 (Redmi 5 Plus)
+samsung_galaxy_j5_prime_(2017)-8958; Samsung - Galaxy J5 Prime (2017)
+asus_zenfone_max_plus_(m1)_zb570tl-8953; Asus - Zenfone Max Plus (M1) ZB570TL
+samsung_galaxy_j3_(2018)-8928; Samsung - Galaxy J3 (2018)
+sony_xperia_r1_(plus)-8922; Sony - Xperia R1 (Plus)
+blu_c5_(2017)-8905; BLU - C5 (2017)
+samsung_galaxy_j2_pro_(2018)-8904; Samsung - Galaxy J2 Pro (2018)
+samsung_galaxy_j2_(2017)-8900; Samsung - Galaxy J2 (2017)
+samsung_galaxy_a8_(2018)-8886; Samsung - Galaxy A8 (2018)
+samsung_galaxy_tab_a_8_0_&_s_pen-8883; Samsung - Galaxy Tab A 8.0 & S Pen
+amazon_fire_hd_10_(2017)-8872; Amazon - Fire HD 10 (2017)
+lg_k7_(2017)-8817; LG - K7 (2017)
+amazon_fire_hd_8_(2017)-8806; Amazon - Fire HD 8 (2017)
+amazon_fire_7_(2017)-8805; Amazon - Fire 7 (2017)
+samsung_galaxy_a8+_(2018)-8790; Samsung - Galaxy A8+ (2018)
+samsung_galaxy_c7_(2017)-8789; Samsung - Galaxy C7 (2017)
+lg_q8_(2017)-8781; LG - Q8 (2017)
+xiaomi_mi_a1_(mi_5x)-8776; Xiaomi - Mi A1 (Mi 5X)
+nokia_105_(2017)-8770; Nokia - 105 (2017)
+nokia_130_(2017)-8769; Nokia - 130 (2017)
+xiaomi_redmi_y1_(note_5a)-8753; Xiaomi - Redmi Y1 (Note 5A)
+allview_p9_energy_lite_(2017)-8742; Allview - P9 Energy Lite (2017)
+samsung_galaxy_tab_a_8_0_(2017)-8725; Samsung - Galaxy Tab A 8.0 (2017)
+apple_ipad_pro_12_9_(2017)-8717; Apple - iPad Pro 12.9 (2017)
+apple_ipad_pro_10_5_(2017)-8716; Apple - iPad Pro 10.5 (2017)
+samsung_galaxy_j5_(2017)-8705; Samsung - Galaxy J5 (2017)
+honor_6a_(pro)-8700; Honor - 6A (Pro)
+huawei_y6_(2017)-8695; Huawei - Y6 (2017)
+huawei_y3_(2017)-8686; Huawei - Y3 (2017)
+oppo_a77_(mediatek)-8685; Oppo - A77 (Mediatek)
+samsung_galaxy_j7_(2017)-8675; Samsung - Galaxy J7 (2017)
+motorola_moto_e4_plus_(usa)-8666; Motorola - Moto E4 Plus (USA)
+motorola_moto_e4_(usa)-8665; Motorola - Moto E4 (USA)
+huawei_y5_(2017)-8640; Huawei - Y5 (2017)
+alcatel_flash_(2017)-8639; alcatel - Flash (2017)
+apple_ipad_9_7_(2017)-8620; Apple - iPad 9.7 (2017)
+xiaomi_redmi_4_(4x)-8608; Xiaomi - Redmi 4 (4X)
+nokia_3310_(2017)-8597; Nokia - 3310 (2017)
+coolpad_3632-8583; Coolpad - 3632
+alcatel_idol_5s_(usa)-8569; alcatel - Idol 5s (USA)
+xiaomi_redmi_pro_2-8558; Xiaomi - Redmi Pro 2
+zte_blade_l110_(a110)-8548; ZTE - Blade L110 (A110)
+posh_memo_pro_lte_l600-8537; Posh - Memo Pro LTE L600
+posh_equal_plus_x700-8536; Posh - Equal Plus X700
+posh_ultra_max_lte_l550-8535; Posh - Ultra Max LTE L550
+vivo_v5_lite_(vivo_1609)-8532; vivo - V5 Lite (vivo 1609)
+asus_zenfone_pegasus_3s-8517; Asus - Zenfone Pegasus 3s
+huawei_p8_lite_(2017)-8516; Huawei - P8 Lite (2017)
+samsung_galaxy_a5_(2017)-8494; Samsung - Galaxy A5 (2017)
+lg_k10_(2017)-8491; LG - K10 (2017)
+lg_k8_(2017)-8490; LG - K8 (2017)
+lg_k4_(2017)-8489; LG - K4 (2017)
+lg_k3_(2017)-8488; LG - K3 (2017)
+lg_g_pad_iii_10_1_fhd-8484; LG - G Pad III 10.1 FHD
+samsung_galaxy_j3_(2017)-8438; Samsung - Galaxy J3 (2017)
+xiaomi_redmi_4_(china)-8419; Xiaomi - Redmi 4 (China)
+samsung_galaxy_a3_(2017)-8336; Samsung - Galaxy A3 (2017)
+samsung_galaxy_a7_(2017)-8335; Samsung - Galaxy A7 (2017)
+yezz_andy_5ei3_(2016)-8325; Yezz - Andy 5EI3 (2016)
+xiaomi_redmi_note_4_(mediatek)-8291; Xiaomi - Redmi Note 4 (MediaTek)
+samsung_galaxy_on5_(2016)-8266; Samsung - Galaxy On5 (2016)
+samsung_galaxy_on7_(2016)-8265; Samsung - Galaxy On7 (2016)
+samsung_galaxy_note7_(usa)-8242; Samsung - Galaxy Note7 (USA)
+alcatel_pop_3_(5_5)-8230; alcatel - Pop 3 (5.5)
+samsung_galaxy_j2_pro_(2016)-8228; Samsung - Galaxy J2 Pro (2016)
+blu_dash_4_5_(2016)-8190; BLU - Dash 4.5 (2016)
+alcatel_pixi_4_(6)_3g-8167; alcatel - Pixi 4 (6) 3G
+alcatel_pixi_4_(5)-8157; alcatel - Pixi 4 (5)
+zte_blade_a2-8143; ZTE - Blade A2
+huawei_mediapad_t1_7_0_plus-8138; Huawei - MediaPad T1 7.0 Plus
+lava_a67-8120; Lava - A67
+asus_zenfone_max_zc550kl_(2016)-8111; Asus - Zenfone Max ZC550KL (2016)
+panasonic_eluga_i2_(2016)-8108; Panasonic - Eluga I2 (2016)
+samsung_galaxy_tab_a_10_1_(2016)-8090; Samsung - Galaxy Tab A 10.1 (2016)
+samsung_galaxy_j2_(2016)-8083; Samsung - Galaxy J2 (2016)
+sony_xperia_m_ultra-8058; Sony - Xperia M Ultra
+sony_xperia_x_premium-8049; Sony - Xperia X Premium
+philips_i928-8015; Philips - I928
+apple_ipad_pro_9_7_(2016)-7984; Apple - iPad Pro 9.7 (2016)
+samsung_galaxy_s7_mini-7979; Samsung - Galaxy S7 mini
+lenovo_zuk_z1_mini-7968; Lenovo - ZUK Z1 mini
+samsung_galaxy_s7_edge_(usa)-7961; Samsung - Galaxy S7 edge (USA)
+samsung_galaxy_s7_(usa)-7960; Samsung - Galaxy S7 (USA)
+samsung_galaxy_a9_pro_(2016)-7903; Samsung - Galaxy A9 Pro (2016)
+samsung_galaxy_tab_a_7_0_(2016)-7880; Samsung - Galaxy Tab A 7.0 (2016)
+samsung_galaxy_j7_(2016)-7870; Samsung - Galaxy J7 (2016)
+samsung_galaxy_j5_(2016)-7869; Samsung - Galaxy J5 (2016)
+samsung_galaxy_j1_(2016)-7864; Samsung - Galaxy J1 (2016)
+alcatel_fierce_xl_(windows)-7856; alcatel - Fierce XL (Windows)
+alcatel_pixi_4_(7)-7847; alcatel - Pixi 4 (7)
+alcatel_pixi_4_(6)-7846; alcatel - Pixi 4 (6)
+alcatel_pixi_4_(4)-7845; alcatel - Pixi 4 (4)
+alcatel_pixi_4_(3_5)-7844; alcatel - Pixi 4 (3.5)
+alcatel_pixi_3_(8)_lte-7843; alcatel - Pixi 3 (8) LTE
+blu_life_one_x_(2016)-7820; BLU - Life One X (2016)
+samsung_galaxy_a8_(2016)-7801; Samsung - Galaxy A8 (2016)
+samsung_galaxy_a3_(2016)-7791; Samsung - Galaxy A3 (2016)
+samsung_galaxy_a5_(2016)-7789; Samsung - Galaxy A5 (2016)
+vivo_x6plus-7779; vivo - X6Plus
+alcatel_pop_3_(5)-7776; alcatel - Pop 3 (5)
+xiaomi_redmi_note_3_(mediatek)-7769; Xiaomi - Redmi Note 3 (MediaTek)
+samsung_galaxy_j3_(2016)-7760; Samsung - Galaxy J3 (2016)
+samsung_galaxy_a7_(2016)-7759; Samsung - Galaxy A7 (2016)
+archos_diamond_s-7748; Archos - Diamond S
+xiaomi_redmi_2_pro-7710; Xiaomi - Redmi 2 Pro
+apple_watch_edition_42mm_(1st_gen)-7698; Apple - Watch Edition 42mm (1st gen)
+apple_watch_edition_38mm_(1st_gen)-7697; Apple - Watch Edition 38mm (1st gen)
+apple_watch_42mm_(1st_gen)-7696; Apple - Watch 42mm (1st gen)
+apple_watch_38mm_(1st_gen)-7695; Apple - Watch 38mm (1st gen)
+apple_watch_sport_42mm_(1st_gen)-7694; Apple - Watch Sport 42mm (1st gen)
+apple_watch_sport_38mm_(1st_gen)-7693; Apple - Watch Sport 38mm (1st gen)
+motorola_moto_360_sport_(1st_gen)-7685; Motorola - Moto 360 Sport (1st gen)
+motorola_moto_360_42mm_(2nd_gen)-7684; Motorola - Moto 360 42mm (2nd gen)
+motorola_moto_360_46mm_(2nd_gen)-7683; Motorola - Moto 360 46mm (2nd gen)
+motorola_moto_360_(1st_gen)-7682; Motorola - Moto 360 (1st gen)
+samsung_galaxy_a9_(2016)-7641; Samsung - Galaxy A9 (2016)
+allview_ax4_nano_plus-7633; Allview - AX4 Nano Plus
+posh_primo_plus_c353-7622; Posh - Primo Plus C353
+posh_kick_x511-7621; Posh - Kick X511
+posh_kick_lite_s410-7620; Posh - Kick Lite S410
+posh_icon_s510-7619; Posh - Icon S510
+vertu_signature_touch_(2015)-7586; Vertu - Signature Touch (2015)
+allview_e4-7580; Allview - E4
+apple_ipad_pro_12_9_(2015)-7562; Apple - iPad Pro 12.9 (2015)
+alcatel_pixi_3_(10)-7548; alcatel - Pixi 3 (10)
+gionee_s5_1_pro-7541; Gionee - S5.1 Pro
+samsung_galaxy_s6_edge+_(usa)-7505; Samsung - Galaxy S6 edge+ (USA)
+samsung_galaxy_note5_(usa)-7504; Samsung - Galaxy Note5 (USA)
+panasonic_t45-7501; Panasonic - T45
+posh_titan_max_hd_e550-7495; Posh - Titan Max HD E550
+posh_ultra_5_0_lte_l500-7494; Posh - Ultra 5.0 LTE L500
+posh_micro_x_s240-7493; Posh - Micro X S240
+motorola_moto_g_dual_sim_(3rd_gen)-7469; Motorola - Moto G Dual SIM (3rd gen)
+samsung_galaxy_tab_a_9_7_&_s_pen-7443; Samsung - Galaxy Tab A 9.7 & S Pen
+htc_desire_626_(usa)-7421; HTC - Desire 626 (USA)
+lg_g4_pro-7305; LG - G4 Pro
+intex_aqua_xtreme-7303; Intex - Aqua Xtreme
+oppo_neo_5_(2015)-7278; Oppo - Neo 5 (2015)
+nokia_105_dual_sim_(2015)-7272; Nokia - 105 Dual SIM (2015)
+nokia_105_(2015)-7271; Nokia - 105 (2015)
+samsung_galaxy_s6_plus-7270; Samsung - Galaxy S6 Plus
+motorola_moto_g_(3rd_gen)-7247; Motorola - Moto G (3rd gen)
+motorola_moto_e_dual_sim_(2nd_gen)-7222; Motorola - Moto E Dual SIM (2nd gen)
+acer_iconia_one_8_b1_820-7217; Acer - Iconia One 8 B1-820
+gionee_pioneer_p4s-7215; Gionee - Pioneer P4S
+gionee_pioneer_p5l-7199; Gionee - Pioneer P5L
+gionee_ctrl_v6l-7198; Gionee - Ctrl V6L
+lenovo_a5860-7195; Lenovo - A5860
+dell_venue_10_7000-7188; Dell - Venue 10 7000
+posh_equal_lite_w700-7172; Posh - Equal Lite W700
+samsung_galaxy_s6_edge_(usa)-7166; Samsung - Galaxy S6 edge (USA)
+samsung_galaxy_s6_(usa)-7164; Samsung - Galaxy S6 (USA)
+asus_zenfone_5_a501cg_(2015)-7160; Asus - Zenfone 5 A501CG (2015)
+asus_padfone_mini_4g_(intel)-7158; Asus - PadFone mini 4G (Intel)
+motorola_moto_g_4g_(2nd_gen)-7137; Motorola - Moto G 4G (2nd gen)
+alcatel_pop_2_(5)_premium-7123; alcatel - Pop 2 (5) Premium
+verykool_s4510_luna-7117; verykool - s4510 Luna
+alcatel_pixi_3_(8)_3g-7098; alcatel - Pixi 3 (8) 3G
+alcatel_pixi_3_(7)_lte-7097; alcatel - Pixi 3 (7) LTE
+alcatel_pixi_3_(7)_3g-7096; alcatel - Pixi 3 (7) 3G
+alcatel_pixi_3_(7)-7095; alcatel - Pixi 3 (7)
+alcatel_pixi_3_(5_5)-7094; alcatel - Pixi 3 (5.5)
+alcatel_pixi_3_(5_5)_lte-7093; alcatel - Pixi 3 (5.5) LTE
+lenovo_ideapad-7091; Lenovo - ideapad
+alcatel_idol_3_(5_5)-7081; alcatel - Idol 3 (5.5)
+alcatel_idol_3_(4_7)-7080; alcatel - Idol 3 (4.7)
+zte_blade_g-7058; ZTE - Blade G
+htc_one_(m8i)-7033; HTC - One (M8i)
+sony_xperia_e1_ii-7022; Sony - Xperia E1 II
+lenovo_vibe_z3_pro-7008; Lenovo - Vibe Z3 Pro
+spice_smart_pulse_(m_9010)-7005; Spice - Smart Pulse (M-9010)
+spice_fire_one_(mi_fx_1)-7004; Spice - Fire One (Mi-FX-1)
+spice_smart_flo_508_(mi_508)-7002; Spice - Smart Flo 508 (Mi-508)
+spice_smart_flo_503_(mi_503)-7001; Spice - Smart Flo 503 (Mi-503)
+spice_smart_flo_359_(mi_359)-7000; Spice - Smart Flo 359 (Mi-359)
+spice_smart_flo_358_(mi_358)-6999; Spice - Smart Flo 358 (Mi-358)
+spice_stellar_439_(mi_439)-6998; Spice - Stellar 439 (Mi-439)
+spice_stellar_361_(mi_361)-6997; Spice - Stellar 361 (Mi-361)
+spice_stellar_507_(mi_507)-6996; Spice - Stellar 507 (Mi-507)
+spice_stellar_509_(mi_509)-6995; Spice - Stellar 509 (Mi-509)
+motorola_moto_g_4g_dual_sim_(2nd_gen)-6991; Motorola - Moto G 4G Dual SIM (2nd gen)
+gigabyte_gsmart_roma_rx-6989; Gigabyte - GSmart Roma RX
+gigabyte_gsmart_mika_mx-6988; Gigabyte - GSmart Mika MX
+motorola_moto_e_(2nd_gen)-6986; Motorola - Moto E (2nd gen)
+microsoft_lumia_1030-6981; Microsoft - Lumia 1030
+samsung_galaxy_tab_4_10_1_(2015)-6980; Samsung - Galaxy Tab 4 10.1 (2015)
+alcatel_pixi_3_(3_5)_firefox-6979; alcatel - Pixi 3 (3.5) Firefox
+spice_stellar_600_(mi_600)-6976; Spice - Stellar 600 (Mi-600)
+spice_stellar_526_(mi_526)-6975; Spice - Stellar 526 (Mi-526)
+spice_stellar_520_(mi_520)-6974; Spice - Stellar 520 (Mi-520)
+spice_stellar_440_(mi_440)-6973; Spice - Stellar 440 (Mi-440)
+spice_stellar_520n_(mi_520n)-6972; Spice - Stellar 520n (Mi-520n)
+spice_stellar_470_(mi_470)-6971; Spice - Stellar 470 (Mi-470)
+samsung_galaxy_tab_4_8_0_(2015)-6969; Samsung - Galaxy Tab 4 8.0 (2015)
+xiaomi_mi_note_plus-6960; Xiaomi - Mi Note Plus
+sony_xperia_z4_ultra-6958; Sony - Xperia Z4 Ultra
+sony_xperia_z4_compact-6957; Sony - Xperia Z4 Compact
+alcatel_pixi_3_(5)-6935; alcatel - Pixi 3 (5)
+alcatel_pixi_3_(4_5)-6934; alcatel - Pixi 3 (4.5)
+alcatel_pixi_3_(4)-6933; alcatel - Pixi 3 (4)
+alcatel_pixi_3_(3_5)-6932; alcatel - Pixi 3 (3.5)
+blu_life_one_(2015)-6930; BLU - Life One (2015)
+blackberry_z20-6895; BlackBerry - Z20
+huawei_u8687_cronos-6893; Huawei - U8687 Cronos
+htc_a12-6889; HTC - A12
+xolo_q900s_plus-6887; XOLO - Q900s Plus
+microsoft_lumia_1330-6883; Microsoft - Lumia 1330
+asus_zenfone_5_lite_a502cg_(2014)-6813; Asus - Zenfone 5 Lite A502CG (2014)
+samsung_galaxy_grand_3-6778; Samsung - Galaxy Grand 3
+samsung_galaxy_note_4_(usa)-6758; Samsung - Galaxy Note 4 (USA)
+htc_one_(m8_eye)-6713; HTC - One (M8 Eye)
+alcatel_pop_2_(5)-6700; alcatel - Pop 2 (5)
+alcatel_pop_2_(4)-6699; alcatel - Pop 2 (4)
+amazon_fire_hdx_8_9_(2014)-6690; Amazon - Fire HDX 8.9 (2014)
+alcatel_pop_2_(4_5)_dual_sim-6657; alcatel - Pop 2 (4.5) Dual SIM
+alcatel_pop_2_(4_5)-6656; alcatel - Pop 2 (4.5)
+motorola_moto_x_(2nd_gen)-6649; Motorola - Moto X (2nd Gen)
+motorola_moto_g_dual_sim_(2nd_gen)-6648; Motorola - Moto G Dual SIM (2nd gen)
+motorola_moto_g_(2nd_gen)-6647; Motorola - Moto G (2nd gen)
+htc_one_(e8)_cdma-6621; HTC - One (E8) CDMA
+htc_one_(m8)_for_windows-6589; HTC - One (M8) for Windows
+htc_one_(m8)_for_windows_(cdma)-6588; HTC - One (M8) for Windows (CDMA)
+gigabyte_gsmart_guru_(white_edition)-6586; Gigabyte - GSmart Guru (White Edition)
+gigabyte_gsmart_t4_(lite_edition)-6585; Gigabyte - GSmart T4 (Lite Edition)
+samsung_galaxy_alpha_(s801)-6580; Samsung - Galaxy Alpha (S801)
+lg_g3_(cdma)-6572; LG - G3 (CDMA)
+lg_g_vista_(cdma)-6545; LG - G Vista (CDMA)
+htc_one_(m8)_dual_sim-6483; HTC - One (M8) dual sim
+asus_zenfone_5_a500kl_(2014)-6429; Asus - Zenfone 5 A500KL (2014)
+asus_zenfone_4_a450cg_(2014)-6428; Asus - Zenfone 4 A450CG (2014)
+huawei_mulan-6426; Huawei - Mulan
+asus_transformer_pad_tf303cl-6407; Asus - Transformer Pad TF303CL
+htc_one_(e8)-6397; HTC - One (E8)
+asus_fonepad_7_(2014)-6394; Asus - Fonepad 7 (2014)
+sony_d_2403-6384; Sony - D 2403
+samsung_galaxy_s5_(usa)-6338; Samsung - Galaxy S5 (USA)
+samsung_galaxy_s5_(octa_core)-6237; Samsung - Galaxy S5 (octa-core)
+htc_one_(m8)_cdma-6233; HTC - One (M8) CDMA
+lg_g2_mini_lte_(tegra)-6118; LG - G2 mini LTE (Tegra)
+htc_one_(m8)-6074; HTC - One (M8)
+allview_p1_alldro-6039; Allview - P1 AllDro
+asus_padfone_mini_(intel)-5982; Asus - PadFone mini (Intel)
+asus_zenfone_5_a500cg_(2014)-5952; Asus - Zenfone 5 A500CG (2014)
+asus_zenfone_4_(2014)-5951; Asus - Zenfone 4 (2014)
+celkon_ar50-5917; Celkon - AR50
+samsung_galaxy_s4_active_lte_a-5889; Samsung - Galaxy S4 Active LTE-A
+spice_mi_349_smart_flo_edge-5829; Spice - Mi-349 Smart Flo Edge
+spice_mi_423_smart_flo_ivory_2-5828; Spice - Mi-423 Smart Flo Ivory 2
+amazon_kindle_fire_hd_(2013)-5726; Amazon - Kindle Fire HD (2013)
+samsung_galaxy_note_10_1_(2014)-5677; Samsung - Galaxy Note 10.1 (2014)
+samsung_ch@t_333-5634; Samsung - Ch@t 333
+celkon_a112-5630; Celkon - A112
+celkon_a63-5629; Celkon - A63
+celkon_a60-5628; Celkon - A60
+celkon_a20-5627; Celkon - A20
+celkon_a10-5626; Celkon - A10
+celkon_c5050_star-5622; Celkon - C5050 Star
+celkon_c7030-5621; Celkon - C7030
+asus_google_nexus_7_(2013)-5600; Asus - Google Nexus 7 (2013)
+kyocera_hydro_xtrm-5555; Kyocera - Hydro Xtrm
+htc_tiara-5510; HTC - Tiara
+micromax_x396-5472; Micromax - X396
+huawei_ascend_g312-5439; Huawei - Ascend G312
+samsung_galaxy_tab_3_plus_10_1_p8220-5351; Samsung - Galaxy Tab 3 Plus 10.1 P8220
+sony_xperia_c670x-5336; Sony - Xperia C670X
+lg_optimus_vu_ii-5325; LG - Optimus Vu II
+karbonn_smart_tab2-5220; Karbonn - Smart Tab2
+karbonn_smart_tab_9-5219; Karbonn - Smart Tab 9
+karbonn_smart_tab_7-5217; Karbonn - Smart Tab 7
+karbonn_smart_tab_10-5216; Karbonn - Smart Tab 10
+karbonn_smart_tab_8-5215; Karbonn - Smart Tab 8
+oppo_r601-5167; Oppo - R601
+huawei_ascend_w3-5119; Huawei - Ascend W3
+samsung_ch@t_357-4931; Samsung - Ch@t 357
+t_mobile_mytouch_qwerty-4770; T-Mobile - myTouch qwerty
+samsung_i9500_fraser-4752; Samsung - I9500 Fraser
+sony_xperia_lt29i_hayabusa-4734; Sony - Xperia LT29i Hayabusa
+lg_optimus_lte-4654; LG - Optimus LTE
+htc_one_x_at&t-4614; HTC - One X AT&T
+samsung_ch@t_220-4611; Samsung - Ch@t 220
+zte_light_tab_300-4595; ZTE - Light Tab 300
+panasonic_eluga_power-4584; Panasonic - Eluga Power
+zte_pf112_hd-4582; ZTE - PF112 HD
+blackberry_porsche_design_p_9531-4463; BlackBerry - Porsche Design P'9531
+blackberry_playbook_2012-4460; BlackBerry - Playbook 2012
+htc_primo-4457; HTC - Primo
+lg_x3-4451; LG - X3
+samsung_ch@t_322_wi_fi-4396; Samsung - Ch@t 322 Wi-Fi
+htc_zeta-4333; HTC - Zeta
+htc_ville-4325; HTC - Ville
+nokia_lumia_900_at&t-4275; Nokia - Lumia 900 AT&T
+nokia_703-4133; Nokia - 703
+samsung_ch@t_527-4096; Samsung - Ch@t 527
+lg_fantasy_e740-4066; LG - Fantasy E740
+lg_univa_e510-4065; LG - Univa E510
+lg_optimus_black_(white_version)-4037; LG - Optimus Black (White version)
+samsung_ch@t_222-3993; Samsung - Ch@t 222
+samsung_r260_chrono-3992; Samsung - R260 Chrono
+motorola_moto_xt882-3981; Motorola - MOTO XT882
+huawei_u3100-3974; Huawei - U3100
+motorola_droid_bionic_targa-3973; Motorola - Droid Bionic Targa
+toshiba_thrive-3970; Toshiba - Thrive
+htc_lead-3957; HTC - Lead
+htc_flyer_wi_fi-3953; HTC - Flyer Wi-Fi
+huawei_u5900s-3951; Huawei - U5900s
+htc_glacier-3949; HTC - Glacier
+htc_rider-3945; HTC - Rider
+blackberry_curve_touch-3934; BlackBerry - Curve Touch
+blackberry_pearl_8130-3933; BlackBerry - Pearl 8130
+huawei_ideos_s7_slim_cdma-3905; Huawei - IDEOS S7 Slim CDMA
+gigabyte_gsmart_g1315_skate-3897; Gigabyte - GSmart G1315 Skate
+htc_prime-3877; HTC - Prime
+htc_ignite-3876; HTC - Ignite
+micromax_x265-3873; Micromax - X265
+nokia_x3_touch_and_type_s-3872; Nokia - X3 Touch and Type S
+huawei_u7520-3861; Huawei - U7520
+lg_gu200-3860; LG - GU200
+sony_ericsson_windows_phone_7-3851; Sony Ericsson - Windows Phone 7
+samsung_e2330-3836; Samsung - E2330
+alcatel_ot_807-3824; alcatel - OT-807
+alcatel_ot_706-3823; alcatel - OT-706
+alcatel_ot_891_soul-3822; alcatel - OT-891 Soul
+alcatel_ot_105-3821; alcatel - OT-105
+alcatel_ot_109-3820; alcatel - OT-109
+alcatel_ot_209-3816; alcatel - OT-209
+alcatel_ot_223-3813; alcatel - OT-223
+alcatel_ot_330-3811; alcatel - OT-330
+alcatel_ot_355-3810; alcatel - OT-355
+alcatel_ot_690-3803; alcatel - OT-690
+alcatel_ot_799_play-3802; alcatel - OT-799 Play
+zte_u900-3791; ZTE - U900
+zte_libra-3790; ZTE - Libra
+zte_amigo-3785; ZTE - Amigo
+htc_desire_hd2-3775; HTC - Desire HD2
+inq_cloud_q-3772; iNQ - Cloud Q
+samsung_c3630-3767; Samsung - C3630
+blackberry_curve_touch_cdma-3757; BlackBerry - Curve Touch CDMA
+blackberry_volt-3754; BlackBerry - Volt
+samsung_a200k_nori_f-3752; Samsung - A200K Nori F
+samsung_a220_f_nori-3750; Samsung - A220 F Nori
+samsung_guru_e1081t-3749; Samsung - Guru E1081T
+samsung_e1225_dual_sim_shift-3748; Samsung - E1225 Dual Sim Shift
+samsung_mpower_tv_s239-3747; Samsung - Mpower TV S239
+samsung_mpower_txt_m369-3746; Samsung - Mpower Txt M369
+samsung_mpower_muzik_219-3745; Samsung - Mpower Muzik 219
+samsung_w169_duos-3744; Samsung - W169 Duos
+samsung_hero_plus_b159-3743; Samsung - Hero Plus B159
+samsung_ch@t_350-3729; Samsung - Ch@t 350
+zte_f107-3727; ZTE - F107
+spice_m_4250-3689; Spice - M-4250
+spice_m_5252-3688; Spice - M-5252
+spice_d_1111-3687; Spice - D-1111
+spice_s_6005-3686; Spice - S-6005
+spice_s_5420-3685; Spice - S-5420
+spice_m_940n-3683; Spice - M-940n
+spice_s_5110-3682; Spice - S-5110
+spice_m_4580-3681; Spice - M 4580
+spice_d_6666-3680; Spice - D-6666
+spice_s_5010-3679; Spice - S-5010
+micromax_a60-3678; Micromax - A60
+lg_flick_t320-3676; LG - Flick T320
+samsung_ch@t_335-3634; Samsung - Ch@t 335
+motorola_a1260-3627; Motorola - A1260
+t_mobile_vibe_e200-3624; T-Mobile - Vibe E200
+zte_x990d-3603; ZTE - X990D
+motorola_ex201-3597; Motorola - EX201
+samsung_ch@t_322-3588; Samsung - Ch@t 322
+acer_betouch_t500-3587; Acer - beTouch T500
+blackberry_storm3-3529; BlackBerry - Storm3
+samsung_guru_dual_26-3528; Samsung - Guru Dual 26
+micromax_x500-3509; Micromax - X500
+micromax_x100-3505; Micromax - X100
+micromax_x1i-3504; Micromax - X1i
+micromax_gc700-3503; Micromax - GC700
+micromax_gc275-3500; Micromax - GC275
+lg_gs190-3496; LG - GS190
+zte_f951-3489; ZTE - F951
+htc_touch_pro_cdma-3483; HTC - Touch Pro CDMA
+htc_schubert-3469; HTC - Schubert
+htc_paradise-3462; HTC - Paradise
+sonim_xp3_20_quest_pro-3461; Sonim - XP3.20 Quest Pro
+pantech_p1000-3457; Pantech - P1000
+pantech_p4000-3456; Pantech - P4000
+t_mobile_mytouch_3g_1_2-3424; T-Mobile - myTouch 3G 1.2
+lg_c710_aloha-3413; LG - C710 Aloha
+nokia_x6_8gb_(2010)-3397; Nokia - X6 8GB (2010)
+haier_v700-3382; Haier - V700
+huawei_g7002-3372; Huawei - G7002
+samsung_c5030-3369; Samsung - C5030
+vodafone_360_h2-3357; Vodafone - 360 H2
+samsung_m715_t*omnia_ii-3350; Samsung - M715 T*OMNIA II
+samsung_m3310l-3347; Samsung - M3310L
+samsung_:)_smiley-3334; Samsung - :) Smiley
+micromax_q7-3320; Micromax - Q7
+micromax_x2i_plus-3314; Micromax - X2i plus
+kyocera_e3500-3224; Kyocera - E3500
+sagem_p9521_porsche-3209; Sagem - P9521 Porsche
+alcatel_ot_s121-3205; alcatel - OT-S121
+samsung_f275-3200; Samsung - F275
+alcatel_ot_802_wave-3166; alcatel - OT-802 Wave
+samsung_b3410w_ch@t-3151; Samsung - B3410W Ch@t
+alcatel_ot_s211-3133; alcatel - OT-S211
+alcatel_ot_s215a-3132; alcatel - OT-S215A
+alcatel_ot_s320-3131; alcatel - OT-S320
+alcatel_ot_s521a-3130; alcatel - OT-S521A
+alcatel_ot_v607a-3128; alcatel - OT-V607A
+alcatel_ot_s626a-3127; alcatel - OT-S626A
+alcatel_ot_c700a-3126; alcatel - OT-C700A
+samsung_t139-3123; Samsung - T139
+zte_raise-3113; ZTE - Raise
+zte_f912-3111; ZTE - F912
+nokia_x6_16gb_(2010)-3109; Nokia - X6 16GB (2010)
+alcatel_ot_222-3108; alcatel - OT-222
+zte_f952-3105; ZTE - F952
+zte_f928-3104; ZTE - F928
+zte_f600-3102; ZTE - F600
+zte_f101-3101; ZTE - F101
+gigabyte_gsmart-3094; Gigabyte - GSmart
+huawei_t552-3093; Huawei - T552
+samsung_m2520_beat_techno-3084; Samsung - M2520 Beat Techno
+alcatel_roadsign-3067; alcatel - Roadsign
+samsung_c3730c-3048; Samsung - C3730C
+samsung_s3650w_corby-3047; Samsung - S3650W Corby
+huawei_u9150-3027; Huawei - U9150
+motorola_a1890-2980; Motorola - A1890
+i_mobile_tv658_touch&move-2974; i-mobile - TV658 Touch&Move
+samsung_m8920-2967; Samsung - M8920
+nokia_x6_(2009)-2922; Nokia - X6 (2009)
+lg_cp150-2899; LG - CP150
+sony_ericsson_jalou_d&g_edition-2896; Sony Ericsson - Jalou D&G edition
+vodafone_v_x760-2859; Vodafone - V-X760
+alcatel_ot_383-2845; alcatel - OT-383
+alcatel_ot_203-2843; alcatel - OT-203
+alcatel_ot_103-2842; alcatel - OT-103
+mitac_mio_explora_k75-2817; Mitac - MIO Explora K75
+samsung_p250-2782; Samsung - P250
+samsung_t119-2765; Samsung - T119
+sharp_825sh-2761; Sharp - 825SH
+samsung_v820l-2757; Samsung - V820L
+philips_xenium_x530-2746; Philips - Xenium X530
+alcatel_ot_600-2734; alcatel - OT-600
+alcatel_ot_303-2732; alcatel - OT-303
+alcatel_ot_280-2731; alcatel - OT-280
+alcatel_ot_202-2730; alcatel - OT-202
+alcatel_ot_111-2729; alcatel - OT-111
+alcatel_ot_102-2728; alcatel - OT-102
+sony_ericsson_satio_(idou)-2683; Sony Ericsson - Satio (Idou)
+t_mobile_mda_basic-2648; T-Mobile - MDA Basic
+vodafone_332-2643; Vodafone - 332
+huawei_u1310-2635; Huawei - U1310
+huawei_u1000-2633; Huawei - U1000
+huawei_t156-2632; Huawei - T156
+huawei_t158-2631; Huawei - T158
+huawei_t208-2630; Huawei - T208
+huawei_t261l-2629; Huawei - T261L
+huawei_t211-2628; Huawei - T211
+huawei_t161l-2627; Huawei - T161L
+huawei_t330-2626; Huawei - T330
+t_mobile_dash-2580; T-Mobile - Dash
+t_mobile_sidekick-2576; T-Mobile - Sidekick
+philips_xenium_9@9q-2516; Philips - Xenium 9@9q
+sagem_my411c_oxbow-2514; Sagem - my411C Oxbow
+sagem_my810x-2512; Sagem - my810x
+benq_siemens_a53-2511; BenQ-Siemens - A53
+samsung_m130-2489; Samsung - M130
+vodafone_511-2462; Vodafone - 511
+samsung_t429-2382; Samsung - T429
+samsung_a437-2376; Samsung - A437
+samsung_a127-2375; Samsung - A127
+samsung_a117-2374; Samsung - A117
+philips_xenium_9@9v-2341; Philips - Xenium 9@9v
+sharp_gx18-2335; Sharp - GX18
+philips_xenium_9@9j-2316; Philips - Xenium 9@9j
+sagem_my855c-2304; Sagem - my855c
+sagem_my721z-2301; Sagem - my721z
+sagem_my519x-2299; Sagem - my519x
+sagem_my421x-2298; Sagem - my421x
+sagem_my429x-2297; Sagem - my429x
+sagem_my419x-2296; Sagem - my419x
+sagem_my411c-2295; Sagem - my411c
+sagem_my312x-2294; Sagem - my312x
+sagem_my234x-2293; Sagem - my234x
+sagem_my231x-2292; Sagem - my231x
+sagem_my230x-2291; Sagem - my230x
+sagem_my220x-2290; Sagem - my220x
+philips_xenium_9@9u-2239; Philips - Xenium 9@9u
+philips_xenium_9@9k-2190; Philips - Xenium 9@9k
+mitac_mio_a502-2159; Mitac - MIO A502
+sagem_my411x-2142; Sagem - my411X
+sagem_my401z-2141; Sagem - my401Z
+asus_z801-2107; Asus - Z801
+asus_v88i-2098; Asus - V88i
+philips_xenium_9@9z-2091; Philips - Xenium 9@9z
+philips_xenium_9@9w-2089; Philips - Xenium 9@9w
+philips_xenium_9@9h-2074; Philips - Xenium 9@9h
+lg_b2150-2057; LG - B2150
+lg_b2070-2055; LG - B2070
+lg_s5000-2054; LG - S5000
+amoi_e860-2038; Amoi - E860
+amoi_e78-2037; Amoi - E78
+amoi_e76-2036; Amoi - E76
+amoi_e72-2032; Amoi - E72
+amoi_wma8701a-2031; Amoi - WMA8701A
+amoi_wma8703-2029; Amoi - WMA8703
+amoi_wma8508-2028; Amoi - WMA8508
+amoi_cma8170-2027; Amoi - CMA8170
+amoi_m33-2026; Amoi - M33
+benq_siemens_c31-2001; BenQ-Siemens - C31
+benq_siemens_e52-2000; BenQ-Siemens - E52
+philips_xenium_9@9m-1980; Philips - Xenium 9@9m
+bird_m32-1966; Bird - M32
+bird_d636-1965; Bird - D636
+bird_d706-1964; Bird - D706
+bird_d615-1963; Bird - D615
+bird_s768-1962; Bird - S768
+bird_s758-1961; Bird - S758
+bird_s618-1960; Bird - S618
+bird_d736-1959; Bird - D736
+philips_xenium_9@9r-1957; Philips - Xenium 9@9r
+bird_d716-1955; Bird - D716
+bird_d720-1952; Bird - D720
+bird_d611-1951; Bird - D611
+bird_d515-1950; Bird - D515
+bird_d612-1949; Bird - D612
+bird_m29-1948; Bird - M29
+bird_m01-1947; Bird - M01
+bird_m07-1946; Bird - M07
+bird_s1130-1945; Bird - S1130
+bird_v5518+-1944; Bird - V5518+
+bird_s663-1943; Bird - S663
+bird_s661-1942; Bird - S661
+bird_s669-1941; Bird - S669
+bird_s668-1940; Bird - S668
+bird_s667-1939; Bird - S667
+bird_s296+-1938; Bird - S296+
+bird_s296-1937; Bird - S296
+nec_e1108-1927; NEC - e1108
+philips_xenium_9@9f-1836; Philips - Xenium 9@9f
+philips_xenium_9@9g-1835; Philips - Xenium 9@9g
+vk_mobile_vk300-1826; VK Mobile - VK300
+asus_z810-1820; Asus - Z810
+toshiba_tx80-1813; Toshiba - TX80
+toshiba_ts32-1812; Toshiba - TS32
+haier_a7-1767; Haier - A7
+gigabyte_gsmart_2005-1760; Gigabyte - GSmart 2005
+gigabyte_gsmart_i-1759; Gigabyte - GSmart i
+gigabyte_gsmart_i_(128)-1758; Gigabyte - GSmart i (128)
+gigabyte_g_yoyo-1755; Gigabyte - g-YoYo
+gigabyte_keroro-1754; Gigabyte - Keroro
+gigabyte_g_cam-1753; Gigabyte - g-Cam
+gigabyte_barbie-1752; Gigabyte - Barbie
+gigabyte_g_re_(b)-1751; Gigabyte - g-re (b)
+gigabyte_g_re_(o)-1750; Gigabyte - g-re (o)
+gigabyte_snoopy-1749; Gigabyte - Snoopy
+gigabyte_doraemon-1748; Gigabyte - Doraemon
+gigabyte_g_x5-1747; Gigabyte - g-X5
+hp_ipaq_hw6910-1720; HP - iPAQ hw6910
+philips_xenium_9@9s-1697; Philips - Xenium 9@9s
+amoi_h812-1671; Amoi - H812
+amoi_h810-1670; Amoi - H810
+amoi_h802-1669; Amoi - H802
+amoi_h801-1664; Amoi - H801
+amoi_h8-1663; Amoi - H8
+telit_t180-1661; Telit - t180
+amoi_a675-1654; Amoi - A675
+amoi_a865-1645; Amoi - A865
+amoi_a869-1644; Amoi - A869
+amoi_6201-1641; Amoi - 6201
+amoi_m650-1638; Amoi - M650
+amoi_m630-1637; Amoi - M630
+amoi_f620-1636; Amoi - F620
+qtek_8600-1585; Qtek - 8600
+telit_t130-1581; Telit - t130
+toshiba_705t-1571; Toshiba - 705T
+telit_t800-1549; Telit - t800
+telit_t250-1548; Telit - t250
+telit_t650-1547; Telit - t650
+telit_t200-1546; Telit - t200
+philips_xenium_9@9t-1542; Philips - Xenium 9@9t
+telit_gu1100-1540; Telit - GU1100
+telit_sp600-1539; Telit - SP600
+telit_t550-1538; Telit - t550
+telit_t420-1537; Telit - t420
+telit_t410-1536; Telit - t410
+telit_t110-1535; Telit - t110
+philips_xenium_9@9d-1521; Philips - Xenium 9@9d
+philips_xenium_9@9a-1520; Philips - Xenium 9@9a
+benq_m580-1426; BenQ - M580
+benq_m220-1422; BenQ - M220
+vk_mobile_vk2100-1395; VK Mobile - VK2100
+o2_x2i-1350; O2 - X2i
+philips_xenium_9@9e-1271; Philips - Xenium 9@9e
+philips_xenium_9@9i-1270; Philips - Xenium 9@9i
+telit_t510-1244; Telit - T510
+telit_c1000-1243; Telit - C1000
+nec_n750-1239; NEC - N750
+nec_n630-1238; NEC - N630
+nec_n850-1237; NEC - N850
+lg_m4330-1214; LG - M4330
+philips_xenium_9@98-1180; Philips - Xenium 9@98
+samsung_p860-1114; Samsung - P860
+o2_x4-1092; O2 - X4
+nec_n923-1025; NEC - N923
+benq_a520-1019; BenQ - A520
+nec_n160-995; NEC - N160
+lg_g1700-980; LG - G1700
+amoi_a90-935; Amoi - A90
+sagem_my_c2_2-934; Sagem - MY C2-2
+mitsubishi_m520-910; Mitsubishi - M520
+nec_n920-865; NEC - N920
+nec_n710-824; NEC - N710
+samsung_i250-807; Samsung - i250
+mitsubishi_m350-782; Mitsubishi - M350
+o2_x3-761; O2 - X3
+benq_p31-758; BenQ - P31
+benq_m775c-750; BenQ - M775C
+maxon_mx_7750-736; Maxon - MX-7750
+maxon_mx_v30-733; Maxon - MX-V30
+maxon_mx_c110-732; Maxon - MX-C110
+maxon_mx_e80-730; Maxon - MX-E80
+mitac_mio_8860-726; Mitac - MIO 8860
+samsung_x910-720; Samsung - X910
+samsung_x900-719; Samsung - X900
+samsung_p710-715; Samsung - P710
+chea_a90-651; Chea - A90
+chea_jms_110-650; Chea - JMS-110
+sagem_my_c_3s-644; Sagem - MY C-3s
+amoi_ca6-640; Amoi - CA6
+amoi_ca8-636; Amoi - CA8
+samsung_e410-608; Samsung - E410
+sagem_my_x_1w-563; Sagem - MY X-1w
+chea_328-505; Chea - 328
+chea_318-504; Chea - 318
+chea_308-503; Chea - 308
+chea_228-502; Chea - 228
+chea_218-501; Chea - 218
+chea_208-500; Chea - 208
+chea_198-499; Chea - 198
+chea_188-498; Chea - 188
+chea_178-497; Chea - 178
+chea_168-496; Chea - 168
+sagem_my_c_6-489; Sagem - MY C-6
+sony_ericsson_t105-483; Sony Ericsson - T105
+philips_xenium_9@9_++-422; Philips - Xenium 9@9 ++
+samsung_t700-376; Samsung - T700
+sagem_my_g5-359; Sagem - MY G5
+sagem_my_3078-346; Sagem - MY 3078
+motorola_v70-333; Motorola - V70
+motorola_accompli_388-332; Motorola - Accompli 388
+motorola_accompli_008-331; Motorola - Accompli 008
+motorola_timeport_260-330; Motorola - Timeport 260
+samsung_n500-328; Samsung - N500
+sony_ericsson_z700-327; Sony Ericsson - Z700
+siemens_s45i-323; Siemens - S45i
+samsung_v100-314; Samsung - V100
+samsung_s100-313; Samsung - S100
+samsung_q300-312; Samsung - Q300
+samsung_a500-311; Samsung - A500
+samsung_n620-309; Samsung - N620
+samsung_t100-308; Samsung - T100
+samsung_q200-307; Samsung - Q200
+philips_fisio_820-306; Philips - Fisio 820
+philips_fisio_620-305; Philips - Fisio 620
+philips_fisio_121-304; Philips - Fisio 121
+philips_fisio_120-303; Philips - Fisio 120
+nec_db7000-301; NEC - DB7000
+siemens_sx45-300; Siemens - SX45
+siemens_a40-299; Siemens - A40
+motorola_v60-298; Motorola - V60
+motorola_talkabout_t192-297; Motorola - Talkabout T192
+nokia_8855-296; Nokia - 8855
+samsung_q105-293; Samsung - Q105
+samsung_n105-292; Samsung - N105
+samsung_r220-291; Samsung - R220
+samsung_r210-290; Samsung - R210
+samsung_r200-289; Samsung - R200
+sony_cmd_z7-281; Sony - CMD Z7
+sony_cmd_j70-280; Sony - CMD J70
+sony_cmd_j7-279; Sony - CMD J7
+siemens_c45-278; Siemens - C45
+samsung_n400-277; Samsung - N400
+samsung_a400-276; Samsung - A400
+sendo_j520-275; Sendo - J520
+sendo_p200-274; Sendo - P200
+sagem_mw_3026-273; Sagem - MW 3026
+sagem_mw_3052-272; Sagem - MW 3052
+sagem_mw_3042-271; Sagem - MW 3042
+sony_cmd_j6-270; Sony - CMD J6
+panasonic_gd35-268; Panasonic - GD35
+motorola_talkabout_t191-267; Motorola - Talkabout T191
+siemens_sl45i-265; Siemens - SL45i
+siemens_sl42-264; Siemens - SL42
+siemens_me45-263; Siemens - ME45
+ericsson_a3618-262; Ericsson - A3618
+samsung_n300-261; Samsung - N300
+samsung_a300-260; Samsung - A300
+samsung_a200-259; Samsung - A200
+motorola_timeport_250-256; Motorola - Timeport 250
+ericsson_t20e-251; Ericsson - T20e
+motorola_v66-250; Motorola - V66
+motorola_timeport_280-249; Motorola - Timeport 280
+motorola_accompli_009-248; Motorola - Accompli 009
+sagem_mw_x1-247; Sagem - MW X1
+panasonic_gd95-242; Panasonic - GD95
+philips_genie_2000-237; Philips - Genie 2000
+philips_fisio_610-236; Philips - Fisio 610
+philips_xenium_9@9-235; Philips - Xenium 9@9
+philips_azalis_268-234; Philips - Azalis 268
+philips_ozeo_8@8-233; Philips - Ozeo 8@8
+nec_db6000-231; NEC - DB6000
+nec_db5000-230; NEC - DB5000
+samsung_q100-229; Samsung - Q100
+motorola_v_box(v100)-224; Motorola - V.box(V100)
+motorola_v50-223; Motorola - V50
+motorola_t180-222; Motorola - T180
+motorola_v2288-221; Motorola - V2288
+siemens_s40-220; Siemens - S40
+siemens_m30-219; Siemens - M30
+sendo_d800-218; Sendo - D800
+siemens_c28-216; Siemens - C28
+siemens_a36-214; Siemens - A36
+motorola_v3690-213; Motorola - V3690
+benefon_twin+-209; Benefon - Twin+
+samsung_a110-207; Samsung - A110
+mitsubishi_trium_neptune-204; Mitsubishi - Trium Neptune
+mitsubishi_trium_mars-203; Mitsubishi - Trium Mars
+ericsson_a2618-193; Ericsson - A2618
+telit_gm_830-189; Telit - GM 830
+telit_gm_810-188; Telit - GM 810
+telit_estremo-187; Telit - Estremo
+telit_gm_710-186; Telit - GM 710
+telit_gm_410-185; Telit - GM 410
+kyocera_tg_200-184; Kyocera - TG 200
+bosch_909_dual_s-183; Bosch - 909 Dual S
+sagem_mc_939_wap-182; Sagem - MC 939 WAP
+sagem_mc_936-181; Sagem - MC 936
+maxon_mx_6899-180; Maxon - MX-6899
+maxon_mx_6877-179; Maxon - MX-6877
+maxon_mx_6879-178; Maxon - MX-6879
+maxon_mx_6869-177; Maxon - MX-6869
+maxon_mx_6815-176; Maxon - MX-6815
+maxon_mx_6814-175; Maxon - MX-6814
+maxon_mx_6811-174; Maxon - MX-6811
+maxon_mx_6810-173; Maxon - MX-6810
+maxon_mx_6805-172; Maxon - MX-6805
+maxon_mx_6804-171; Maxon - MX-6804
+maxon_mx_3205f-170; Maxon - MX-3205F
+maxon_mx_3204-169; Maxon - MX-3204
+sagem_mc_950-168; Sagem - MC 950
+sagem_mc_959-167; Sagem - MC 959
+sagem_mc_940-166; Sagem - MC 940
+sagem_mc_932-165; Sagem - MC 932
+sagem_rc_922-164; Sagem - RC 922
+sagem_mc_912-163; Sagem - MC 912
+sagem_mc_850-162; Sagem - MC 850
+sagem_mc_825_fm-161; Sagem - MC 825 FM
+sagem_mc_820-160; Sagem - MC 820
+sagem_rc_750-159; Sagem - RC 750
+sagem_rc_730-158; Sagem - RC 730
+nec_db2000-156; NEC - DB2000
+nec_db500-155; NEC - DB500
+nec_g9d+-154; NEC - G9D+
+philips_xenium-153; Philips - Xenium
+philips_savvy_db-151; Philips - Savvy DB
+philips_savvy_vogue-150; Philips - Savvy Vogue
+philips_genie_db-149; Philips - Genie db
+philips_genie_sport-148; Philips - Genie Sport
+philips_genie-147; Philips - Genie
+philips_savvy-146; Philips - Savvy
+philips_diga-145; Philips - Diga
+philips_spark-144; Philips - Spark
+philips_fizz-143; Philips - Fizz
+bosch_909_dual-142; Bosch - 909 Dual
+bosch_com_908-141; Bosch - Com 908
+bosch_com_509-140; Bosch - Com 509
+bosch_world_718-139; Bosch - World 718
+bosch_com_738-138; Bosch - Com 738
+bosch_com_906-137; Bosch - Com 906
+bosch_com_608-136; Bosch - Com 608
+bosch_com_607-135; Bosch - Com 607
+bosch_com_207-134; Bosch - Com 207
+sony_cmd_cd5-132; Sony - CMD CD5
+sony_cmd_c1-131; Sony - CMD C1
+sony_cmd_z1_plus-130; Sony - CMD Z1 plus
+sony_cmd_z1-129; Sony - CMD Z1
+sony_cm_dx_2000-128; Sony - CM-DX 2000
+sony_cm_dx_1000-127; Sony - CM-DX 1000
+panasonic_gd90-124; Panasonic - GD90
+panasonic_gd70-123; Panasonic - GD70
+panasonic_gd30-122; Panasonic - GD30
+panasonic_g600-121; Panasonic - G600
+alcatel_ot_gum_db-120; alcatel - OT Gum db
+ericsson_r250s_pro-119; Ericsson - R250s PRO
+ericsson_t28_world-118; Ericsson - T28 World
+ericsson_t28s-117; Ericsson - T28s
+ericsson_t18s-116; Ericsson - T18s
+ericsson_t10s-115; Ericsson - T10s
+ericsson_a1018s-114; Ericsson - A1018s
+ericsson_i_888-113; Ericsson - I 888
+ericsson_sh_888-112; Ericsson - SH 888
+ericsson_s_868-111; Ericsson - S 868
+ericsson_gf_788e-110; Ericsson - GF 788e
+ericsson_gf_788-109; Ericsson - GF 788
+ericsson_pf_768-108; Ericsson - PF 768
+ericsson_gf_768-107; Ericsson - GF 768
+ericsson_gh_688-106; Ericsson - GH 688
+ericsson_ga_628-105; Ericsson - GA 628
+ericsson_gf_388-104; Ericsson - GF 388
+ericsson_gh_388-103; Ericsson - GH 388
+ericsson_gs_337-102; Ericsson - GS 337
+ericsson_gf_337-101; Ericsson - GF 337
+ericsson_gh_337-100; Ericsson - GH 337
+ericsson_ga_318-99; Ericsson - GA 318
+ericsson_gs_18-98; Ericsson - GS 18
+ericsson_go_118-97; Ericsson - GO 118
+ericsson_gh_218-96; Ericsson - GH 218
+siemens_c25-91; Siemens - C25
+siemens_s25-90; Siemens - S25
+siemens_sl10-89; Siemens - SL10
+siemens_s10_active-88; Siemens - S10 active
+siemens_s11-87; Siemens - S11
+siemens_s10-86; Siemens - S10
+siemens_c11-85; Siemens - C11
+siemens_c10-84; Siemens - C10
+motorola_d520-83; Motorola - d520
+motorola_timeport_p7389-81; Motorola - Timeport P7389
+motorola_timeport_l7089-80; Motorola - Timeport L7089
+motorola_v3688-79; Motorola - V3688
+motorola_slimlite-78; Motorola - SlimLite
+motorola_startac_rainbow-77; Motorola - StarTAC Rainbow
+motorola_startac_75-76; Motorola - StarTAC 75
+motorola_startac_75+-75; Motorola - StarTAC 75+
+motorola_startac_85-74; Motorola - StarTAC 85
+motorola_startac_130-73; Motorola - StarTAC 130
+motorola_cd930-72; Motorola - cd930
+motorola_cd920-71; Motorola - cd920
+motorola_m3188-70; Motorola - M3188
+motorola_m3288-69; Motorola - M3288
+motorola_m3588-68; Motorola - M3588
+motorola_m3688-67; Motorola - M3688
+motorola_m3788-66; Motorola - M3788
+motorola_m3888-65; Motorola - M3888
+mitsubishi_trium_mondo-64; Mitsubishi - Trium Mondo
+mitsubishi_trium_xs-63; Mitsubishi - Trium xs
+mitsubishi_trium_fx-62; Mitsubishi - Trium fx
+mitsubishi_trium_cosmo-61; Mitsubishi - Trium Cosmo
+mitsubishi_trium_aria-60; Mitsubishi - Trium Aria
+mitsubishi_trium_geo_@-59; Mitsubishi - Trium Geo-@
+mitsubishi_trium_geo-58; Mitsubishi - Trium Geo
+mitsubishi_trium_astral-57; Mitsubishi - Trium Astral
+mitsubishi_trium_galaxy-56; Mitsubishi - Trium Galaxy
+samsung_sgh_2400-54; Samsung - SGH-2400
+samsung_sgh_2200-53; Samsung - SGH-2200
+samsung_sgh_2100-52; Samsung - SGH-2100
+samsung_sgh_810-51; Samsung - SGH-810
+samsung_sgh_800-50; Samsung - SGH-800
+samsung_sgh_600-49; Samsung - SGH-600
+samsung_sgh_500-48; Samsung - SGH-500
+samsung_sgh_250-47; Samsung - SGH-250
+benefon_vega-46; Benefon - Vega
+benefon_io-45; Benefon - iO
+benefon_esc!-44; Benefon - Esc!
+alcatel_hc_800-40; alcatel - HC 800
+alcatel_hc_1000-39; alcatel - HC 1000
+alcatel_ot_view-38; alcatel - OT View
+alcatel_ot_max-37; alcatel - OT Max
+alcatel_ot_club_+-36; alcatel - OT Club +
+alcatel_ot_club-35; alcatel - OT Club
+alcatel_ot_easy-34; alcatel - OT Easy
+alcatel_ot_easy_hf-33; alcatel - OT Easy HF
+alcatel_ot_pro-32; alcatel - OT Pro
+alcatel_ot_com-31; alcatel - OT COM
+alcatel_ot_pocket-30; alcatel - OT Pocket
+alcatel_ot_view_db_@-29; alcatel - OT View db @
+alcatel_ot_view_db-28; alcatel - OT View db
+alcatel_ot_max_db-27; alcatel - OT Max db
+alcatel_ot_easy_db-26; alcatel - OT Easy db
+alcatel_ot_club_db-25; alcatel - OT Club db
+nokia_2110-24; Nokia - 2110
+nokia_3110-23; Nokia - 3110
+nokia_8810-20; Nokia - 8810
+nokia_8210-19; Nokia - 8210
+nokia_9000_communicator-16; Nokia - 9000 Communicator
+nokia_8110-11; Nokia - 8110
+nokia_6150-10; Nokia - 6150
+nokia_6130-9; Nokia - 6130
