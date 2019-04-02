@@ -15,10 +15,12 @@ namespace Documents
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("STUFF STARTED!");
+            var startTime = DateTime.Now;
+            System.Console.WriteLine($"Started at {startTime}");
             GsmArenaApi.SaveAllPhonesList();
             GsmArenaApi.SaveAllPhonesDetails();
             // FonoApi.SaveAllPhoneDetails();
+            System.Console.WriteLine($"Done in: ~{(DateTime.Now - startTime):mm\\m\\:ss\\s\\:fff\\m\\s}!");
         }
     }
 }

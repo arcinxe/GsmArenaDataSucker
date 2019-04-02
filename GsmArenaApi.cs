@@ -53,75 +53,83 @@ namespace ConsoleApp
             var phones = new List<PhonesResponse.Phone>();
             var brandCount = 1;
 
-                foreach (var brand in brands)
+            foreach (var brand in brands)
+            {
+                System.Console.WriteLine($"{brandCount++}/{brands.Length} ");
+
+                var phoneCount = 0;
+                var totalPages = 0;
+                var currentPage = 1;
+                do
                 {
-                    System.Console.WriteLine($"{brandCount++}/{brands.Length} ");
-
-                    var phoneCount = 0;
-                    var totalPages = 0;
-                    var currentPage = 1;
-                    do
+                    try
                     {
-                        try
+                        var brandPhonesResponse = GsmArenaApi.GetPhonesFromTheBrand(brand.Slug, currentPage).Result;
+                        var brandPhones = brandPhonesResponse.Data.Items;
+                        totalPages = (int)brandPhonesResponse.Data.TotalPage;
+                        System.Console.WriteLine($"{brand.Name} ({currentPage} page out of {totalPages})");
+                        currentPage++;
+                        foreach (var phone in brandPhones)
                         {
-                            var brandPhonesResponse = GsmArenaApi.GetPhonesFromTheBrand(brand.Slug, currentPage).Result;
-                            var brandPhones = brandPhonesResponse.Data.Items;
-                            totalPages = (int)brandPhonesResponse.Data.TotalPage;
-                            System.Console.WriteLine($"{brand.Name} ({currentPage} page out of {totalPages})");
-                            currentPage++;
-                            foreach (var phone in brandPhones)
-                            {
-                                phone.Brand = brand.Name;
-                                phones.Add(phone);
-                                phoneCount++;
-                            }
+                            phone.Brand = brand.Name;
+                            phones.Add(phone);
+                            phoneCount++;
                         }
-                        catch (Exception e)
-                        {
-                            System.Console.WriteLine($"Brand {brand.Name} Failed");
-                            System.Console.WriteLine(e.ToString());
-                        }
+                    }
+                    catch (Exception e)
+                    {
+                        System.Console.WriteLine($"Brand {brand.Name} Failed");
+                        System.Console.WriteLine(e.ToString());
+                    }
 
-                    } while (currentPage <= totalPages);
-                    System.Console.WriteLine($"Total amount of {brand.Name} devices: {phoneCount}");
-                }
+                } while (currentPage <= totalPages);
+                System.Console.WriteLine($"Total amount of {brand.Name} devices: {phoneCount}");
+            }
 
-            File.WriteAllText("AllPhones.json", JsonConvert.SerializeObject(phones.OrderByDescending(p => p.Id),Formatting.Indented));
+            File.WriteAllText("AllPhones.json", JsonConvert.SerializeObject(phones.OrderByDescending(p => p.Id), Formatting.Indented));
         }
 
         public static void SaveAllPhonesDetails()
         {
+            File.Delete("AllPhonesDetails.json");
+            File.Delete("Succesful.txt");
+            File.Delete("Failed.txt");
+
             var phones = JsonConvert
             .DeserializeObject<List<PhonesResponse.Phone>>(File.ReadAllText("AllPhones.json"));
-            File.AppendAllText("AllPhonesDetails.json", "[\n");
+            var startTime = DateTime.Now;
+            File.AppendAllText($"AllPhonesDetails_{startTime.ToString("yyyy-MM-dd")}.json", "[\n");
             var counter = 0;
             var failed = 0;
+            var succesfull = 0;
 
-                foreach (var phone in phones)
+            foreach (var phone in phones)
+            {
+                System.Console.Write($"{counter.ToString("D4")}/8291");
+                Console.ForegroundColor = ConsoleColor.Red;
+                System.Console.Write($"{(failed > 0 ? "-" + failed : "")}");
+                Console.ResetColor();
+                System.Console.WriteLine($"; {phone.Slug};\n{phone.Brand} - {phone.Name}");
+                counter++;
+                try
                 {
-                    System.Console.Write($"{counter.ToString("D4")}/8291");
-                    Console.ForegroundColor = ConsoleColor.Red;
-                    System.Console.Write($"{(failed > 0 ? "-" + failed : "")}");
-                    Console.ResetColor();
-                    System.Console.WriteLine($"; {phone.Slug};\n{phone.Brand} - {phone.Name}");
-                    counter++;
-                    try
-                    {
-                        var phoneDetails = GsmArenaApi.GetRawPhoneDetails(phone.Slug).Result;
-                        File.AppendAllText("AllPhonesDetails.json", phoneDetails.Insert(9, $"{(counter>1?"\n,":"")}\"id\":\"{phone.Id}\",\"slug\":\"{phone.Slug}\",")/*  + ",\n" */);
-                        File.AppendAllText("Succesful.txt", $"{phone.Slug}; {phone.Brand} - {phone.Name}\n");
-                    }
-                    catch (System.Exception)
-                    {
-                        failed++;
-                        Console.ForegroundColor = ConsoleColor.Red;
-                        System.Console.WriteLine($"Failed x{failed}!!");
-                        Console.ResetColor();
-                        File.AppendAllText("failed.txt", $"{phone.Slug}; {phone.Brand} - {phone.Name}\n");
-
-                    }
+                    var phoneDetails = GsmArenaApi.GetRawPhoneDetails(phone.Slug).Result;
+                    File.AppendAllText($"AllPhonesDetails_{startTime.ToString("yyyy-MM-dd")}.json", (succesfull++ > 0 ? "\n," : "") + phoneDetails.Insert(9, $"\"id\":\"{phone.Id}\",\"slug\":\"{phone.Slug}\",")/*  + ",\n" */);
+                    File.AppendAllText("Succesful.txt", $"{phone.Slug}; {phone.Brand} - {phone.Name}\n");
                 }
-            File.AppendAllText("AllPhonesDetails.json", "\n]");
+                catch (System.Exception)
+                {
+                    failed++;
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    System.Console.WriteLine($"Failed x{failed}!!");
+                    Console.ResetColor();
+                    File.AppendAllText("Failed.txt", $"{phone.Slug}; {phone.Brand} - {phone.Name}\n");
+
+                }
+            }
+            File.AppendAllText($"AllPhonesDetails_{DateTime.Now.ToString("yyyy-MM-dd")}.json", "\n]");
+            System.Console.WriteLine($"gud: {succesfull} devices");
+
         }
     }
 }
