@@ -4,10 +4,10 @@ using System.IO;
 using System.Linq;
 using System.Net.Http;
 using System.Threading.Tasks;
-using ConsoleApp.Models;
+using GsmArenaDataSucker.Models;
 using Newtonsoft.Json;
 
-namespace ConsoleApp {
+namespace GsmArenaDataSucker {
     public static class GsmArenaApi {
         private readonly static HttpClient _client = new HttpClient();
         public static async Task<BrandsResponse> GetAllBrands() {
@@ -18,51 +18,51 @@ namespace ConsoleApp {
             return brands;
         }
 
-        public static async Task<PhonesResponse> GetPhonesFromTheBrand(string slug, int page = 1) {
-            var phonesResponse = await _client.GetAsync($"http://localhost:8080/devices/{slug}?page={page}");
-            phonesResponse.EnsureSuccessStatusCode();
-            var phonesContent = phonesResponse.Content.ReadAsStringAsync();
-            var phones = JsonConvert.DeserializeObject<PhonesResponse>(phonesContent.Result);
-            return phones;
+        public static async Task<DevicesResponse> GetDevicesFromTheBrand(string slug, int page = 1) {
+            var devicesResponse = await _client.GetAsync($"http://localhost:8080/devices/{slug}?page={page}");
+            devicesResponse.EnsureSuccessStatusCode();
+            var devicesContent = devicesResponse.Content.ReadAsStringAsync();
+            var devices = JsonConvert.DeserializeObject<DevicesResponse>(devicesContent.Result);
+            return devices;
         }
 
-        public static async Task<PhoneDetailsResponse> GetPhoneDetails(string slug) {
-            var phoneResponse = await _client.GetAsync($"http://localhost:8080/specs/{slug}");
-            phoneResponse.EnsureSuccessStatusCode();
-            var phoneContent = phoneResponse.Content.ReadAsStringAsync();
-            var phone = JsonConvert.DeserializeObject<PhoneDetailsResponse>(phoneContent.Result);
-            return phone;
+        public static async Task<DeviceDetailsResponse> GetDeviceDetails(string slug) {
+            var deviceResponse = await _client.GetAsync($"http://localhost:8080/specs/{slug}");
+            deviceResponse.EnsureSuccessStatusCode();
+            var deviceContent = deviceResponse.Content.ReadAsStringAsync();
+            var device = JsonConvert.DeserializeObject<DeviceDetailsResponse>(deviceContent.Result);
+            return device;
         }
 
-        public static async Task<string> GetRawPhoneDetails(string slug) {
-            var phoneResponse = await _client.GetAsync($"http://localhost:8080/specs/{slug}");
-            phoneResponse.EnsureSuccessStatusCode();
-            var phoneContent = phoneResponse.Content.ReadAsStringAsync();
-            return phoneContent.Result;
+        public static async Task<string> GetRawDeviceDetails(string slug) {
+            var deviceResponse = await _client.GetAsync($"http://localhost:8080/specs/{slug}");
+            deviceResponse.EnsureSuccessStatusCode();
+            var deviceContent = deviceResponse.Content.ReadAsStringAsync();
+            return deviceContent.Result;
         }
 
-        public static void SaveAllPhonesList() {
+        public static void SaveAllDevicesList() {
             var brands = GsmArenaApi.GetAllBrands().Result.Data;
-            var phones = new List<PhonesResponse.Phone>();
+            var devices = new List<DevicesResponse.Device>();
             var brandCount = 1;
 
             foreach (var brand in brands) {
                 System.Console.WriteLine($"{brandCount++}/{brands.Length} ");
 
-                var phoneCount = 0;
+                var deviceCount = 0;
                 var totalPages = 0;
                 var currentPage = 1;
                 do {
                     try {
-                        var brandPhonesResponse = GsmArenaApi.GetPhonesFromTheBrand(brand.Slug, currentPage).Result;
-                        var brandPhones = brandPhonesResponse.Data.Items;
-                        totalPages = (int) brandPhonesResponse.Data.TotalPage;
+                        var brandDevicesResponse = GsmArenaApi.GetDevicesFromTheBrand(brand.Slug, currentPage).Result;
+                        var brandDevices = brandDevicesResponse.Data.Items;
+                        totalPages = (int) brandDevicesResponse.Data.TotalPage;
                         System.Console.WriteLine($"{brand.Name} ({currentPage} page out of {totalPages})");
                         currentPage++;
-                        foreach (var phone in brandPhones) {
-                            phone.Brand = brand.Name;
-                            phones.Add(phone);
-                            phoneCount++;
+                        foreach (var device in brandDevices) {
+                            device.Brand = brand.Name;
+                            devices.Add(device);
+                            deviceCount++;
                         }
                     } catch (Exception e) {
                         System.Console.WriteLine($"Brand {brand.Name} Failed");
@@ -70,53 +70,51 @@ namespace ConsoleApp {
                     }
 
                 } while (currentPage <= totalPages);
-                System.Console.WriteLine($"Total amount of {brand.Name} devices: {phoneCount}");
+                System.Console.WriteLine($"Total amount of {brand.Name} devices: {deviceCount}");
             }
 
-            File.WriteAllText("AllPhones.json", JsonConvert.SerializeObject(phones.OrderByDescending(p => p.Id), Formatting.Indented));
+            File.WriteAllText("AllDevices.json", JsonConvert.SerializeObject(devices.OrderByDescending(p => p.Id), Formatting.Indented));
         }
 
-        public static void SaveAllPhonesDetails() {
+        public static void SaveAllDevicesDetails() {
             if (File.Exists("Successful.txt"))
                 File.Delete("Successful.txt");
             if (File.Exists("Failed.txt"))
                 File.Delete("Failed.txt");
 
-            var phones = JsonConvert
-                .DeserializeObject<List<PhonesResponse.Phone>>(File.ReadAllText("AllPhones.json"));
+            var devices = JsonConvert
+                .DeserializeObject<List<DevicesResponse.Device>>(File.ReadAllText("AllDevices.json"));
             var startTime = DateTime.Now;
-            File.AppendAllText($"AllPhonesDetails_{startTime.ToString("yyyy-MM-dd")}.json", "[\n");
+            File.AppendAllText($"AllDevicesDetails_{startTime.ToString("yyyy-MM-dd")}.json", "[\n");
             var counter = 0;
             var failed = 0;
             var successfull = 0;
 
-            foreach (var phone in phones) {
-                System.Console.Write($"{counter.ToString("D4")}/{phones.Count}");
+            foreach (var device in devices) {
+                System.Console.Write($"{counter.ToString("D4")}/{devices.Count}");
                 Console.ForegroundColor = ConsoleColor.Red;
                 System.Console.Write($"{(failed > 0 ? "-" + failed : "")}");
                 Console.ResetColor();
-                System.Console.Write($", {((double)counter/phones.Count).ToString("P")}");
-                System.Console.WriteLine($", {phone.Slug};\n{phone.Brand} - {phone.Name}");
+                System.Console.Write($", {((double)counter/devices.Count).ToString("P")}");
+                System.Console.WriteLine($", {device.Slug};\n{device.Brand} - {device.Name}");
                 counter++;
                 try {
-                    var phoneDetails = GsmArenaApi.GetRawPhoneDetails(phone.Slug).Result;
-                    File.AppendAllText($"AllPhonesDetails_{startTime.ToString("yyyy-MM-dd")}.json", (successfull++ > 0 ? "\n," : "") + phoneDetails.Insert(9, $"\"id\":\"{phone.Id}\",\"slug\":\"{phone.Slug}\",") /*  + ",\n" */ );
-                    File.AppendAllText("Successful.txt", $"{phone.Slug}; {phone.Brand} - {phone.Name}\n");
+                    var deviceDetails = GsmArenaApi.GetRawDeviceDetails(device.Slug).Result;
+                    File.AppendAllText($"AllDevicesDetails_{startTime.ToString("yyyy-MM-dd")}.json", (successfull++ > 0 ? "\n," : "") + deviceDetails.Insert(9, $"\"id\":\"{device.Id}\",\"slug\":\"{device.Slug}\",") /*  + ",\n" */ );
+                    File.AppendAllText("Successful.txt", $"{device.Slug}; {device.Brand} - {device.Name}\n");
                 } catch (System.Exception) {
                     failed++;
                     Console.ForegroundColor = ConsoleColor.Red;
                     System.Console.WriteLine($"Failed x{failed}!!");
                     Console.ResetColor();
-                    File.AppendAllText("Failed.txt", $"{phone.Slug}; {phone.Brand} - {phone.Name}\n");
-
+                    File.AppendAllText("Failed.txt", $"{device.Slug}; {device.Brand} - {device.Name}\n");
                 }
             }
-            File.AppendAllText($"AllPhonesDetails_{DateTime.Now.ToString("yyyy-MM-dd")}.json", "\n]");
-            if (File.Exists("AllPhonesDetails.json"))
-                File.Delete("AllPhonesDetails.json");
-            File.Copy($"AllPhonesDetails_{DateTime.Now.ToString("yyyy-MM-dd")}.json", "AllPhonesDetails.json");
+            File.AppendAllText($"AllDevicesDetails_{DateTime.Now.ToString("yyyy-MM-dd")}.json", "\n]");
+            if (File.Exists("AllDevicesDetails.json"))
+                File.Delete("AllDevicesDetails.json");
+            File.Copy($"AllDevicesDetails_{DateTime.Now.ToString("yyyy-MM-dd")}.json", "AllDevicesDetails.json");
             System.Console.WriteLine($"gud: {successfull} devices");
-
         }
     }
 }

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace ConsoleApp.Models
+namespace GsmArenaDataSucker.Models
 {
     class SingleOrArrayConverter<T> : JsonConverter
 {

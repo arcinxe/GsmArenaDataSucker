@@ -1,6 +1,6 @@
 using Newtonsoft.Json;
 
-namespace ConsoleApp.Models
+namespace GsmArenaDataSucker.Models
 {
     public class BrandsResponse
     {

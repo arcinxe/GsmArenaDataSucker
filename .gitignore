@@ -1,7 +1,9 @@
 Archived/
 Failed.txt
 Successful.txt
-
+AllDevices*.json
+!AllDevices.json
+!AllDevicesDetails.json
 
 *.swp
 *.*~
