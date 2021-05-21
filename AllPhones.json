@@ -1,5 +1,445 @@
 [
   {
+    "id": 9711,
+    "name": "Z6 Youth",
+    "brand": "Lenovo",
+    "slug": "lenovo_z6_youth-9711",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/lenovo-z6-youth.jpg",
+    "description": "Lenovo Z6 Youth Android smartphone. Announced May 2019. Features 6.3″ IPS LCD display, Snapdragon 710 chipset, 4050 mAh battery, 128 GB storage, 6 GB RAM."
+  },
+  {
+    "id": 9710,
+    "name": "20 Pro",
+    "brand": "Honor",
+    "slug": "honor_20_pro-9710",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-20-pro-r.jpg",
+    "description": "Honor 20 Pro Android smartphone. Announced May 2019. Features 6.26″ IPS LCD display, HiSilicon Kirin 980 chipset, 4000 mAh battery, 256 GB storage, 8 GB RAM."
+  },
+  {
+    "id": 9709,
+    "name": "Soul X6 Mini",
+    "brand": "Allview",
+    "slug": "allview_soul_x6_mini-9709",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/allview-soul-x6-mini.jpg",
+    "description": "Allview Soul X6 Mini Android smartphone. Announced May 2019. Features 6.2″ IPS LCD display, MT6762 Helio P22 chipset, 4000 mAh battery, 16 GB storage, 2 GB RAM."
+  },
+  {
+    "id": 9707,
+    "name": "Redmi Note 7S",
+    "brand": "Xiaomi",
+    "slug": "xiaomi_redmi_note_7s-9707",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-7s.jpg",
+    "description": "Xiaomi Redmi Note 7S Android smartphone. Announced May 2019. Features 6.3″ IPS LCD display, Snapdragon 660 chipset, 4000 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 5."
+  },
+  {
+    "id": 9706,
+    "name": "A9x",
+    "brand": "Oppo",
+    "slug": "oppo_a9x-9706",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/oppo-a9.jpg",
+    "description": "Oppo A9x Android smartphone. Announced May 2019. Features 6.53″ LTPS IPS LCD display, MT6771V Helio P70 chipset, 4020 mAh battery, 128 GB storage, 6 GB RAM."
+  },
+  {
+    "id": 9705,
+    "name": "Mate 20 X (5G)",
+    "brand": "Huawei",
+    "slug": "huawei_mate_20_x_(5g)-9705",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/huawei-mate-20x-.jpg",
+    "description": "Huawei Mate 20 X (5G) Android smartphone. Announced May 2019. Features 7.2″ OLED display, HiSilicon Kirin 980 chipset, 4200 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass (unspecified version)."
+  },
+  {
+    "id": 9704,
+    "name": "7 Pro 5G",
+    "brand": "OnePlus",
+    "slug": "oneplus_7_pro_5g-9704",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/oneplus-7-pro-r1.jpg",
+    "description": "OnePlus 7 Pro 5G Android smartphone. Announced May 2019. Features 6.67″ Fluid AMOLED display, Snapdragon 855 chipset, 4000 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass."
+  },
+  {
+    "id": 9701,
+    "name": "Blade A7 Vita",
+    "brand": "ZTE",
+    "slug": "zte_blade_a7_vita-9701",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/zte-blade-a7-vista.jpg",
+    "description": "ZTE Blade A7 Vita Android smartphone. Announced Dec 2018. Features 5.45″ IPS LCD display, Snapdragon 425 chipset, 3200 mAh battery, 32 GB storage, 3 GB RAM."
+  },
+  {
+    "id": 9700,
+    "name": "X",
+    "brand": "Realme",
+    "slug": "realme_x-9700",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/realme-x.jpg",
+    "description": "Realme X Android smartphone. Announced May 2019. Features 6.53″ AMOLED display, Snapdragon 710 chipset, 3765 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass 5."
+  },
+  {
+    "id": 9699,
+    "name": "K3",
+    "brand": "Oppo",
+    "slug": "oppo_k3-9699",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/oppo-k3.jpg",
+    "description": "Oppo K3 Android smartphone. Announced May 2019. Features 6.5″ AMOLED display, Snapdragon 710 chipset, 3765 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass (unspecified version)."
+  },
+  {
+    "id": 9698,
+    "name": "Zenfone 6 ZS630KL",
+    "brand": "Asus",
+    "slug": "asus_zenfone_6_zs630kl-9698",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-6-2019.jpg",
+    "description": "Asus Zenfone 6 ZS630KL Android smartphone. Announced May 2019. Features 6.4″ IPS LCD display, Snapdragon 855 chipset, 5000 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 6."
+  },
+  {
+    "id": 9697,
+    "name": "Blade A7",
+    "brand": "ZTE",
+    "slug": "zte_blade_a7-9697",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/zte-blade-a7.jpg",
+    "description": "ZTE Blade A7 Android smartphone. Announced May 2019. Features 6.01″ IPS LCD display, MT6771 Helio P60 chipset, 3200 mAh battery, 64 GB storage, 3 GB RAM."
+  },
+  {
+    "id": 9696,
+    "name": "S1 Pro",
+    "brand": "vivo",
+    "slug": "vivo_s1_pro-9696",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/vivo-s1-pro.jpg",
+    "description": "vivo S1 Pro Android smartphone. Announced May 2019. Features 6.39″ Super AMOLED display, Snapdragon 675 chipset, 3700 mAh battery, 256 GB storage, 8 GB RAM."
+  },
+  {
+    "id": 9695,
+    "name": "Axon 10 Pro",
+    "brand": "ZTE",
+    "slug": "zte_axon_10_pro-9695",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/zte-axon-10-pro-4g.jpg",
+    "description": "ZTE Axon 10 Pro Android smartphone. Announced Feb 2019. Features 6.47″ AMOLED display, Snapdragon 855 chipset, 4000 mAh battery, 256 GB storage, 12 GB RAM."
+  },
+  {
+    "id": 9694,
+    "name": "P Smart Z",
+    "brand": "Huawei",
+    "slug": "huawei_p_smart_z-9694",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/huawei-p-smart-z-.jpg",
+    "description": "Huawei P Smart Z Android smartphone. Announced May 2019. Features 6.59″ LTPS IPS LCD display, Hisilicon Kirin 710F chipset, 4000 mAh battery, 64 GB storage, 4 GB RAM."
+  },
+  {
+    "id": 9692,
+    "name": "nubia Red Magic 3",
+    "brand": "ZTE",
+    "slug": "zte_nubia_red_magic_3-9692",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/nubia-red-magic-3.jpg",
+    "description": "ZTE nubia Red Magic 3 Android smartphone. Announced May 2019. Features 6.65″ AMOLED display, Snapdragon 855 chipset, 5000 mAh battery, 256 GB storage, 12 GB RAM."
+  },
+  {
+    "id": 9690,
+    "name": "Pixel 3a XL",
+    "brand": "Google",
+    "slug": "google_pixel_3a_xl-9690",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/google-pixel-3a-xl.jpg",
+    "description": "Google Pixel 3a XL Android smartphone. Announced May 2019. Features 6.0″ OLED display, Snapdragon 670 chipset, 3700 mAh battery, 64 GB storage, 4 GB RAM, Asahi Dragontrail Glass."
+  },
+  {
+    "id": 9689,
+    "name": "7 Pro",
+    "brand": "OnePlus",
+    "slug": "oneplus_7_pro-9689",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/oneplus-7-pro-r1.jpg",
+    "description": "OnePlus 7 Pro Android smartphone. Announced May 2019. Features 6.67″ Fluid AMOLED display, Snapdragon 855 chipset, 4000 mAh battery, 256 GB storage, 12 GB RAM, Corning Gorilla Glass."
+  },
+  {
+    "id": 9688,
+    "name": "P10 Mini",
+    "brand": "Allview",
+    "slug": "allview_p10_mini-9688",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/allview-p10-mini.jpg",
+    "description": "Allview P10 Mini Android smartphone. Announced Apr 2019. Features 5.0″ IPS LCD display, 2400 mAh battery, 8 GB storage, 1000 MB RAM."
+  },
+  {
+    "id": 9687,
+    "name": "P10 Max",
+    "brand": "Allview",
+    "slug": "allview_p10_max-9687",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/allview-p10-max.jpg",
+    "description": "Allview P10 Max Android smartphone. Announced Apr 2019. Features 5.99″ IPS LCD display, MT6739 chipset, 3200 mAh battery, 8 GB storage, 1000 MB RAM."
+  },
+  {
+    "id": 9686,
+    "name": "P10 Pro",
+    "brand": "Allview",
+    "slug": "allview_p10_pro-9686",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/allview-p10-pro.jpg",
+    "description": "Allview P10 Pro Android smartphone. Announced Apr 2019. Features 5.99″ IPS LCD display, MT6739 chipset, 3000 mAh battery, 32 GB storage, 3 GB RAM."
+  },
+  {
+    "id": 9685,
+    "name": "Soul X6 Xtreme",
+    "brand": "Allview",
+    "slug": "allview_soul_x6_xtreme-9685",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/allview-x6-xtr.jpg",
+    "description": "Allview Soul X6 Xtreme Android smartphone. Announced Apr 2019. Features 6.39″ AMOLED display, Helio P70 chipset, 3450 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 5."
+  },
+  {
+    "id": 9684,
+    "name": "Energy E12",
+    "brand": "Energizer",
+    "slug": "energizer_energy_e12-9684",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/energizer-energy-e12.jpg",
+    "description": "Energizer Energy E12 phone. Announced Apr 2019. Features 1.8″  display, Spreadtrum SC6531E chipset, 1000 mAh battery, 4 MB storage, 4 MB RAM."
+  },
+  {
+    "id": 9683,
+    "name": "Hardcase H10",
+    "brand": "Energizer",
+    "slug": "energizer_hardcase_h10-9683",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/energizer-hardcase-h10.jpg",
+    "description": "Energizer Hardcase H10 phone. Announced Apr 2019. Features 1.8″  display, MT6261A chipset, 1000 mAh battery, 64 MB storage, 32 MB RAM."
+  },
+  {
+    "id": 9681,
+    "name": "Z3x",
+    "brand": "vivo",
+    "slug": "vivo_z3x-9681",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/vivo-z3x.jpg",
+    "description": "vivo Z3x Android smartphone. Announced Apr 2019. Features 6.26″ IPS LCD display, Snapdragon 660 chipset, 3260 mAh battery, 64 GB storage, 4 GB RAM."
+  },
+  {
+    "id": 9680,
+    "name": "Smart3 Plus",
+    "brand": "Infinix",
+    "slug": "infinix_smart3_plus-9680",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/infinix-smart3-plus.jpg",
+    "description": "Infinix Smart3 Plus Android smartphone. Announced Apr 2019. Features 6.2″ LTPS IPS LCD display, MT6761 Helio A22 chipset, 3500 mAh battery, 32 GB storage, 3 GB RAM."
+  },
+  {
+    "id": 9679,
+    "name": "Hot 7 Pro",
+    "brand": "Infinix",
+    "slug": "infinix_hot_7_pro-9679",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/infinix-hot-7-pro.jpg",
+    "description": "Infinix Hot 7 Pro Android smartphone. Announced Mar 2019. Features 6.2″ IPS LCD display, MT6757T Helio P25 chipset, 4000 mAh battery, 64 GB storage, 6 GB RAM."
+  },
+  {
+    "id": 9678,
+    "name": "S4",
+    "brand": "Infinix",
+    "slug": "infinix_s4-9678",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/infinix-hot-s4.jpg",
+    "description": "Infinix S4 Android smartphone. Announced Apr 2019. Features 6.2″ IPS LCD display, MT6762 Helio P22 chipset, 4000 mAh battery, 64 GB storage, 6 GB RAM."
+  },
+  {
+    "id": 9677,
+    "name": "A9",
+    "brand": "Oppo",
+    "slug": "oppo_a9-9677",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/oppo-a9.jpg",
+    "description": "Oppo A9 Android smartphone. Announced Apr 2019. Features 6.53″ LTPS IPS LCD display, MT6771V Helio P70 chipset, 4020 mAh battery, 128 GB storage, 6 GB RAM."
+  },
+  {
+    "id": 9676,
+    "name": "Reno 5G",
+    "brand": "Oppo",
+    "slug": "oppo_reno_5g-9676",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/oppo-reno-10x-zoom.jpg",
+    "description": "Oppo Reno 5G Android smartphone. Announced Apr 2019. Features 6.6″ AMOLED display, Snapdragon 855 chipset, 4065 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 6."
+  },
+  {
+    "id": 9675,
+    "name": "Y5 (2019)",
+    "brand": "Huawei",
+    "slug": "huawei_y5_(2019)-9675",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/huawei-y5-2019.jpg",
+    "description": "Huawei Y5 (2019) Android smartphone. Announced Apr 2019. Features 5.71″ IPS LCD display, MT6761 Helio A22 chipset, 3020 mAh battery, 32 GB storage, 2 GB RAM."
+  },
+  {
+    "id": 9674,
+    "name": "Redmi Y3",
+    "brand": "Xiaomi",
+    "slug": "xiaomi_redmi_y3-9674",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-y3.jpg",
+    "description": "Xiaomi Redmi Y3 Android smartphone. Announced Apr 2019. Features 6.26″ IPS LCD display, Snapdragon 632 chipset, 4000 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 5."
+  },
+  {
+    "id": 9673,
+    "name": "A1k",
+    "brand": "Oppo",
+    "slug": "oppo_a1k-9673",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/oppo-a1k.jpg",
+    "description": "Oppo A1k Android smartphone. Announced Apr 2019. Features 6.1″ IPS LCD display, MT6762 Helio P22 chipset, 4000 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 3."
+  },
+  {
+    "id": 9672,
+    "name": "Galaxy View2",
+    "brand": "Samsung",
+    "slug": "samsung_galaxy_view2-9672",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-view2-sm-t927--.jpg",
+    "description": "Samsung Galaxy View2 Android tablet. Announced Apr 2019. Features 17.3″ IPS LCD display, Exynos 7884 chipset, 12000 mAh battery, 64 GB storage, 3 GB RAM."
+  },
+  {
+    "id": 9671,
+    "name": "Z6 Pro",
+    "brand": "Lenovo",
+    "slug": "lenovo_z6_pro-9671",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/lenovo-z6-pro.jpg",
+    "description": "Lenovo Z6 Pro Android smartphone. Announced Apr 2019. Features 6.39″ Super AMOLED display, Snapdragon 855 chipset, 4000 mAh battery, 512 GB storage, 12 GB RAM."
+  },
+  {
+    "id": 9670,
+    "name": "C2",
+    "brand": "Realme",
+    "slug": "realme_c2-9670",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/realme-c2.jpg",
+    "description": "Realme C2 Android smartphone. Announced Apr 2019. Features 6.1″ IPS LCD display, MT6762 Helio P22 chipset, 4000 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass 3."
+  },
+  {
+    "id": 9669,
+    "name": "3 Pro",
+    "brand": "Realme",
+    "slug": "realme_3_pro-9669",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/realme-3pro.jpg",
+    "description": "Realme 3 Pro Android smartphone. Announced Apr 2019. Features 6.3″ IPS LCD display, Snapdragon 710 chipset, 4045 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 5."
+  },
+  {
+    "id": 9668,
+    "name": "MediaPad M5 Lite 8",
+    "brand": "Huawei",
+    "slug": "huawei_mediapad_m5_lite_8-9668",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/huawei-mediapad-m5-lite-8-inch.jpg",
+    "description": "Huawei MediaPad M5 Lite 8 Android tablet. Announced Mar 2019. Features 8.0″ IPS LCD display, Hisilicon Kirin 710 chipset, 5100 mAh battery, 64 GB storage, 4 GB RAM."
+  },
+  {
+    "id": 9667,
+    "name": "ZenFone Live (L2)",
+    "brand": "Asus",
+    "slug": "asus_zenfone_live_(l2)-9667",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-live-l2.jpg",
+    "description": "Asus ZenFone Live (L2) Android smartphone. Announced Apr 2019. Features 5.5″ IPS LCD display, Snapdragon 425 chipset, 3000 mAh battery, 32 GB storage, 2 GB RAM."
+  },
+  {
+    "id": 9666,
+    "name": "Y17",
+    "brand": "vivo",
+    "slug": "vivo_y17-9666",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/vivo-y17.jpg",
+    "description": "vivo Y17 Android smartphone. Announced Apr 2019. Features 6.35″ IPS LCD display, MT6765 Helio P35 chipset, 5000 mAh battery, 128 GB storage, 4 GB RAM."
+  },
+  {
+    "id": 9665,
+    "name": "Galaxy Tab A 8.0 (2018)",
+    "brand": "Samsung",
+    "slug": "samsung_galaxy_tab_a_8_0_(2018)-9665",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-taba-t387-sm-t387.jpg",
+    "description": "Samsung Galaxy Tab A 8.0 (2018) Android tablet. Announced Sep 2018. Features 8.0″ IPS LCD display, Snapdragon 425 chipset, 5000 mAh battery, 32 GB storage, 2 GB RAM."
+  },
+  {
+    "id": 9664,
+    "name": "8S",
+    "brand": "Honor",
+    "slug": "honor_8s-9664",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/honor-8s-.jpg",
+    "description": "Honor 8S Android smartphone. Announced Apr 2019. Features 5.71″ LCD display, MT6761 Helio A22 chipset, 3020 mAh battery, 64 GB storage, 3 GB RAM."
+  },
+  {
+    "id": 9663,
+    "name": "20i",
+    "brand": "Honor",
+    "slug": "honor_20i-9663",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/honor-20i.jpg",
+    "description": "Honor 20i Android smartphone. Announced Apr 2019. Features 6.21″ IPS LCD display, Hisilicon Kirin 710 chipset, 3400 mAh battery, 256 GB storage, 6 GB RAM."
+  },
+  {
+    "id": 9662,
+    "name": "8A Pro",
+    "brand": "Honor",
+    "slug": "honor_8a_pro-9662",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/huawei-8a-pro.jpg",
+    "description": "Honor 8A Pro Android smartphone. Announced Apr 2019. Features 6.09″ LCD display, MT6765 Helio P35 chipset, 3020 mAh battery, 64 GB storage, 3 GB RAM."
+  },
+  {
+    "id": 9661,
+    "name": "Galaxy A20e",
+    "brand": "Samsung",
+    "slug": "samsung_galaxy_a20e-9661",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a20e.jpg",
+    "description": "Samsung Galaxy A20e Android smartphone. Announced Apr 2019. Features 5.8″ PLS TFT display, Exynos 7884 chipset, 3000 mAh battery, 32 GB storage, 3 GB RAM."
+  },
+  {
+    "id": 9660,
+    "name": "X27 Pro",
+    "brand": "vivo",
+    "slug": "vivo_x27_pro-9660",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/vivo-x27-pro.jpg",
+    "description": "vivo X27 Pro Android smartphone. Announced Apr 2019. Features 6.7″ Super AMOLED display, Snapdragon 710 chipset, 4000 mAh battery, 256 GB storage, 8 GB RAM."
+  },
+  {
+    "id": 9659,
+    "name": "Galaxy A80",
+    "brand": "Samsung",
+    "slug": "samsung_galaxy_a80-9659",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a80-.jpg",
+    "description": "Samsung Galaxy A80 Android smartphone. Announced Apr 2019. Features 6.7″ Super AMOLED display, Snapdragon 730 chipset, 3700 mAh battery, 128 GB storage, 8 GB RAM, Corning Gorilla Glass 3."
+  },
+  {
+    "id": 9658,
+    "name": "Hot 7",
+    "brand": "Infinix",
+    "slug": "infinix_hot_7-9658",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/infinix-hot7.jpg",
+    "description": "Infinix Hot 7 Android smartphone. Announced Jan 2019. Features 6.2″ IPS LCD display, MT6580 chipset, 4000 mAh battery, 32 GB storage, 2 GB RAM."
+  },
+  {
+    "id": 9657,
+    "name": "Zero 6 Pro",
+    "brand": "Infinix",
+    "slug": "infinix_zero_6_pro-9657",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/infinix-zero-6.jpg",
+    "description": "Infinix Zero 6 Pro Android smartphone. Announced Mar 2019. Features 6.18″ IPS LCD display, Snapdragon 636 chipset, 3650 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 5."
+  },
+  {
+    "id": 9656,
+    "name": "Zero 6",
+    "brand": "Infinix",
+    "slug": "infinix_zero_6-9656",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/infinix-zero-6.jpg",
+    "description": "Infinix Zero 6 Android smartphone. Announced Mar 2019. Features 6.18″ IPS LCD display, Snapdragon 636 chipset, 3650 mAh battery, 64 GB storage, 6 GB RAM, Corning Gorilla Glass 5."
+  },
+  {
+    "id": 9655,
+    "name": "K6 Enjoy",
+    "brand": "Lenovo",
+    "slug": "lenovo_k6_enjoy-9655",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/lenovo-k6-enjoy.jpg",
+    "description": "Lenovo K6 Enjoy Android smartphone. Announced Apr 2019. Features 6.22″ IPS LCD display, MT6762 Helio P22 chipset, 3300 mAh battery, 128 GB storage, 4 GB RAM."
+  },
+  {
+    "id": 9654,
+    "name": "Reno 10x zoom",
+    "brand": "Oppo",
+    "slug": "oppo_reno_10x_zoom-9654",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/oppo-reno-10x-zoom.jpg",
+    "description": "Oppo Reno 10x zoom Android smartphone. Announced Apr 2019. Features 6.6″ AMOLED display, Snapdragon 855 chipset, 4065 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 6."
+  },
+  {
+    "id": 9653,
+    "name": "A7n",
+    "brand": "Oppo",
+    "slug": "oppo_a7n-9653",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/oppo-a7n.jpg",
+    "description": "Oppo A7n Android smartphone. Announced Apr 2019. Features 6.2″ S-IPS LCD display, MT6765 Helio P35 chipset, 4230 mAh battery, 64 GB storage, 4 GB RAM."
+  },
+  {
+    "id": 9652,
+    "name": "X71",
+    "brand": "Nokia",
+    "slug": "nokia_x71-9652",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/nokia-x71.jpg",
+    "description": "Nokia X71 Android smartphone. Announced Apr 2019. Features 6.39″ IPS LCD display, Snapdragon 660 chipset, 3500 mAh battery, 128 GB storage, 6 GB RAM."
+  },
+  {
+    "id": 9651,
+    "name": "Galaxy Tab A 8 (2019)",
+    "brand": "Samsung",
+    "slug": "samsung_galaxy_tab_a_8_(2019)-9651",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-a-s-pen-sm-p205.jpg",
+    "description": "Samsung Galaxy Tab A 8 (2019) Android tablet. Announced Mar 2019. Features 8.0″ IPS LCD display, Exynos 7904 chipset, 4200 mAh battery, 32 GB storage, 3 GB RAM."
+  },
+  {
     "id": 9649,
     "name": "S1",
     "brand": "vivo",
@@ -8,12 +448,20 @@
     "description": "vivo S1 Android smartphone. Announced Mar 2019. Features 6.53″ IPS LCD display, Helio P70 chipset, 3940 mAh battery, 128 GB storage, 6 GB RAM."
   },
   {
+    "id": 9647,
+    "name": "One Vision",
+    "brand": "Motorola",
+    "slug": "motorola_one_vision-9647",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/motorola-one-vision.jpg",
+    "description": "Motorola One Vision Android smartphone. Announced May 2019. Features 6.3″ LTPS IPS LCD display, Exynos 9609 chipset, 3500 mAh battery, 128 GB storage, 4 GB RAM, Corning Gorilla Glass (unspecified version)."
+  },
+  {
     "id": 9646,
     "name": "Galaxy A70",
     "brand": "Samsung",
     "slug": "samsung_galaxy_a70-9646",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a70.jpg",
-    "description": "Samsung Galaxy A70 Android smartphone. Announced Mar 2019. Features 6.7″ Super AMOLED display, 4500 mAh battery, 128 GB storage, 8 GB RAM."
+    "description": "Samsung Galaxy A70 Android smartphone. Announced Mar 2019. Features 6.7″ Super AMOLED display, Snapdragon 675 chipset, 4500 mAh battery, 128 GB storage, 8 GB RAM."
   },
   {
     "id": 9645,
@@ -21,7 +469,7 @@
     "brand": "Huawei",
     "slug": "huawei_enjoy_9e-9645",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/huawei-y6-2019-.jpg",
-    "description": "Huawei Enjoy 9e Android smartphone. Announced Mar 2019. Features 6.09″ IPS LCD display, MT6761 Helio A22 chipset, 3020 mAh battery, 32 GB storage, 3 GB RAM."
+    "description": "Huawei Enjoy 9e Android smartphone. Announced Mar 2019. Features 6.09″ IPS LCD display, MT6765 Helio P35 chipset, 3020 mAh battery, 64 GB storage, 3 GB RAM."
   },
   {
     "id": 9644,
@@ -45,7 +493,15 @@
     "brand": "Samsung",
     "slug": "samsung_galaxy_a40-9642",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a40.jpg",
-    "description": "Samsung Galaxy A40 Android smartphone. Announced Mar 2019. Features 5.9″ Super AMOLED display, Exynos 7885 Octa chipset, 3100 mAh battery, 64 GB storage, 4 GB RAM."
+    "description": "Samsung Galaxy A40 Android smartphone. Announced Mar 2019. Features 5.9″ Super AMOLED display, Exynos 7885 chipset, 3100 mAh battery, 64 GB storage, 4 GB RAM."
+  },
+  {
+    "id": 9641,
+    "name": "20 lite",
+    "brand": "Honor",
+    "slug": "honor_20_lite-9641",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/honor-20-lite.jpg",
+    "description": "Honor 20 lite Android smartphone. Announced Apr 2019. Features 6.21″ LTPS IPS LCD display, Hisilicon Kirin 710 chipset, 3400 mAh battery, 128 GB storage, 6 GB RAM."
   },
   {
     "id": 9640,
@@ -53,7 +509,7 @@
     "brand": "Samsung",
     "slug": "samsung_galaxy_a20-9640",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a20.jpg",
-    "description": "Samsung Galaxy A20 Android smartphone. Announced Mar 2019. Features 6.4″ Super AMOLED display, Exynos 7884 Octa chipset, 4000 mAh battery, 32 GB storage, 3 GB RAM."
+    "description": "Samsung Galaxy A20 Android smartphone. Announced Mar 2019. Features 6.4″ Super AMOLED display, Exynos 7884 chipset, 4000 mAh battery, 32 GB storage, 3 GB RAM."
   },
   {
     "id": 9639,
@@ -78,6 +534,14 @@
     "slug": "apple_ipad_mini_(2019)-9637",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/apple-ipad-mini-2019.jpg",
     "description": "Apple iPad mini (2019) tablet. Announced Mar 2019. Features 7.9″ IPS LCD display, Apple A12 Bionic chipset, 5124 mAh battery, 256 GB storage, 3 GB RAM, Scratch-resistant glass."
+  },
+  {
+    "id": 9636,
+    "name": "Galaxy A2 Core",
+    "brand": "Samsung",
+    "slug": "samsung_galaxy_a2_core-9636",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a2-core-sm-a260f.jpg",
+    "description": "Samsung Galaxy A2 Core Android smartphone. Announced Apr 2019. Features 5.0″ IPS LCD display, Exynos 7870 Octa chipset, 2600 mAh battery, 16 GB storage, 1000 MB RAM."
   },
   {
     "id": 9635,
@@ -112,6 +576,14 @@
     "description": "Huawei nova 3i Android smartphone. Announced Jul 2018. Features 6.3″ IPS LCD display, Hisilicon Kirin 710 chipset, 3340 mAh battery, 128 GB storage, 4 GB RAM."
   },
   {
+    "id": 9631,
+    "name": "Reno",
+    "brand": "Oppo",
+    "slug": "oppo_reno-9631",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/oppo-reno1.jpg",
+    "description": "Oppo Reno Android smartphone. Announced Apr 2019. Features 6.4″ AMOLED display, Snapdragon 710 chipset, 3765 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 6."
+  },
+  {
     "id": 9629,
     "name": "X27",
     "brand": "vivo",
@@ -141,7 +613,7 @@
     "brand": "Oppo",
     "slug": "oppo_a5s_(ax5s)-9626",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/oppo-a5s-r.jpg",
-    "description": "Oppo A5s (AX5s) Android smartphone. Announced Mar 2019. Features 6.2″ S-IPS LCD display, MT6765 Helio P35 chipset, 4230 mAh battery, 64 GB storage, 3 GB RAM."
+    "description": "Oppo A5s (AX5s) Android smartphone. Announced Mar 2019. Features 6.2″ S-IPS LCD display, MT6765 Helio P35 chipset, 4230 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 3."
   },
   {
     "id": 9625,
@@ -158,6 +630,14 @@
     "slug": "vivo_y91i-9624",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/vivo-y91i-.jpg",
     "description": "vivo Y91i Android smartphone. Announced Mar 2019. Features 6.22″ IPS LCD display, MT6762 Helio P22 chipset, 4030 mAh battery, 32 GB storage, 2 GB RAM."
+  },
+  {
+    "id": 9623,
+    "name": "7",
+    "brand": "OnePlus",
+    "slug": "oneplus_7-9623",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/oneplus-7--.jpg",
+    "description": "OnePlus 7 Android smartphone. Announced May 2019. Features 6.41″ Optic AMOLED display, Snapdragon 855 chipset, 3700 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass."
   },
   {
     "id": 9622,
@@ -205,7 +685,23 @@
     "brand": "Oppo",
     "slug": "oppo_f11-9617",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/oppo-f11-.jpg",
-    "description": "Oppo F11 Android smartphone. Announced Mar 2019. Features 6.53″ LTPS IPS LCD display, Helio P70 chipset, 4000 mAh battery, 128 GB storage, 6 GB RAM."
+    "description": "Oppo F11 Android smartphone. Announced Mar 2019. Features 6.53″ LTPS IPS LCD display, Helio P70 chipset, 4020 mAh battery, 128 GB storage, 6 GB RAM."
+  },
+  {
+    "id": 9616,
+    "name": "Galaxy A60",
+    "brand": "Samsung",
+    "slug": "samsung_galaxy_a60-9616",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a60-.jpg",
+    "description": "Samsung Galaxy A60 Android smartphone. Announced Apr 2019. Features 6.3″ PLS TFT display, Snapdragon 675 chipset, 3500 mAh battery, 128 GB storage, 6 GB RAM."
+  },
+  {
+    "id": 9615,
+    "name": "20",
+    "brand": "Honor",
+    "slug": "honor_20-9615",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-20.jpg",
+    "description": "Honor 20 Android smartphone. Announced May 2019. Features 6.26″ IPS LCD display, HiSilicon Kirin 980 chipset, 3750 mAh battery, 128 GB storage, 6 GB RAM."
   },
   {
     "id": 9614,
@@ -229,7 +725,7 @@
     "brand": "ZTE",
     "slug": "zte_nubia_alpha-9612",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/zte-nubia-alpha.jpg",
-    "description": "ZTE nubia Alpha Android watch. Announced Feb 2019. Features 4.0″ AMOLED display, Snapdragon Wear 2100 chipset, 500 mAh battery, 8 GB storage, 1000 MB RAM, Yes."
+    "description": "ZTE nubia Alpha watch. Announced Feb 2019. Features 4.01″ AMOLED display, Snapdragon Wear 2100 chipset, 500 mAh battery, 8 GB storage, 1000 MB RAM, Yes."
   },
   {
     "id": 9611,
@@ -245,15 +741,15 @@
     "brand": "ZTE",
     "slug": "zte_axon_10_pro_5g-9610",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/zte-axon-10-pro-5g.jpg",
-    "description": "ZTE Axon 10 Pro 5G Android smartphone. Announced Feb 2019. Features 6.47″ AMOLED display, Snapdragon 855 chipset, 4000 mAh battery, 128 GB storage, 6 GB RAM."
+    "description": "ZTE Axon 10 Pro 5G Android smartphone. Announced Feb 2019. Features 6.47″ AMOLED display, Snapdragon 855 chipset, 4000 mAh battery, 256 GB storage, 12 GB RAM."
   },
   {
     "id": 9609,
     "name": "Tab V7",
     "brand": "Lenovo",
     "slug": "lenovo_tab_v7-9609",
-    "image": "https://cdn2.gsmarena.com/vv/bigpic/lenovo-tab-v7-.jpg",
-    "description": "Lenovo Tab V7 Android tablet. Announced Feb 2019. Features 6.9″ IPS LCD display, Snapdragon 450 chipset, 5180 mAh battery, 64 GB storage, 4 GB RAM."
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/lenovo-tab-v7.jpg",
+    "description": "Lenovo Tab V7 Android tablet. Announced Feb 2019. Features 6.95″ IPS LCD display, Snapdragon 450 chipset, 5180 mAh battery, 64 GB storage, 4 GB RAM."
   },
   {
     "id": 9608,
@@ -261,7 +757,7 @@
     "brand": "LG",
     "slug": "lg_g8s_thinq-9608",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/lg-g8s-thinq-.jpg",
-    "description": "LG G8s ThinQ Android smartphone. Announced Feb 2019. Features 6.2″ AMOLED display, Snapdragon 855 chipset, 3550 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 5."
+    "description": "LG G8s ThinQ Android smartphone. Announced Feb 2019. Features 6.2″ OLED display, Snapdragon 855 chipset, 3550 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 5."
   },
   {
     "id": 9607,
@@ -413,7 +909,7 @@
     "brand": "Samsung",
     "slug": "samsung_galaxy_watch_active-9589",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-watch-active.jpg",
-    "description": "Samsung Galaxy Watch Active watch. Announced Feb 2019. Features 1.1″ AMOLED display, Exynos 9110 chipset, 230 mAh battery, 4 GB storage, 768 MB RAM, Corning Gorilla Glass 3."
+    "description": "Samsung Galaxy Watch Active watch. Announced Feb 2019. Features 1.1″ Super AMOLED display, Exynos 9110 chipset, 230 mAh battery, 4 GB storage, 768 MB RAM, Corning Gorilla Glass 3."
   },
   {
     "id": 9588,
@@ -421,7 +917,7 @@
     "brand": "Samsung",
     "slug": "samsung_galaxy_s10_5g-9588",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s10-5g.jpg",
-    "description": "Samsung Galaxy S10 5G Android smartphone. Announced Feb 2019. Features 6.7″ Dynamic AMOLED display, Exynos 9820 Octa chipset, 4500 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 6."
+    "description": "Samsung Galaxy S10 5G Android smartphone. Announced Feb 2019. Features 6.7″ Dynamic AMOLED display, Exynos 9820 chipset, 4500 mAh battery, 512 GB storage, 8 GB RAM, Corning Gorilla Glass 6."
   },
   {
     "id": 9587,
@@ -429,7 +925,7 @@
     "brand": "LG",
     "slug": "lg_k40-9587",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/lg-k40-.jpg",
-    "description": "LG K40 Android smartphone. Announced Feb 2019. Features 5.7″ IPS LCD display, 3000 mAh battery, 32 GB storage, 2 GB RAM, MIL-STD-810G compliant."
+    "description": "LG K40 Android smartphone. Announced Feb 2019. Features 5.7″ IPS LCD display, MT6762 Helio P22 chipset, 3000 mAh battery, 32 GB storage, 3 GB RAM, MIL-STD-810G compliant."
   },
   {
     "id": 9586,
@@ -468,8 +964,8 @@
     "name": "Galaxy Tab A 10.1 (2019)",
     "brand": "Samsung",
     "slug": "samsung_galaxy_tab_a_10_1_(2019)-9582",
-    "image": "https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-a-105-.jpg",
-    "description": "Samsung Galaxy Tab A 10.1 (2019) Android tablet. Announced Feb 2019. Features 10.1″ IPS LCD display, Exynos 7904 Octa chipset, 6150 mAh battery, 32 GB storage, 2 GB RAM."
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-a-101-2019.jpg",
+    "description": "Samsung Galaxy Tab A 10.1 (2019) Android tablet. Announced Feb 2019. Features 10.1″ IPS LCD display, Exynos 7904 chipset, 6150 mAh battery, 32 GB storage, 2 GB RAM."
   },
   {
     "id": 9581,
@@ -485,7 +981,7 @@
     "brand": "Samsung",
     "slug": "samsung_galaxy_a10-9580",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a10.jpg",
-    "description": "Samsung Galaxy A10 Android smartphone. Announced Feb 2019. Features 6.2″ IPS LCD display, Exynos 7884 Octa chipset, 3400 mAh battery, 32 GB storage, 2 GB RAM."
+    "description": "Samsung Galaxy A10 Android smartphone. Announced Feb 2019. Features 6.2″ IPS LCD display, Exynos 7884 chipset, 3400 mAh battery, 32 GB storage, 2 GB RAM."
   },
   {
     "id": 9579,
@@ -541,7 +1037,7 @@
     "brand": "Energizer",
     "slug": "energizer_power_max_p18k_pop-9573",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/energizer-power-max-p18k-pop-100.jpg",
-    "description": "Energizer Power Max P18K Pop Android smartphone. Announced Feb 2019. Features 6.2″ IPS LCD display, Helio P70 chipset, 18000 mAh battery, 128 GB storage, 6 GB RAM."
+    "description": "Energizer Power Max P18K Pop Android smartphone. Announced Feb 2019. Features 6.2″ IPS LCD display, Helio P70 chipset, 128 GB storage, 6 GB RAM."
   },
   {
     "id": 9572,
@@ -685,14 +1181,14 @@
     "brand": "Samsung",
     "slug": "samsung_galaxy_a50-9554",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a50-sm-a505f-ds.jpg",
-    "description": "Samsung Galaxy A50 Android smartphone. Announced Feb 2019. Features 6.4″ Super AMOLED display, Exynos 9610 Octa chipset, 4000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3."
+    "description": "Samsung Galaxy A50 Android smartphone. Announced Feb 2019. Features 6.4″ Super AMOLED display, Exynos 9610 chipset, 4000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 3."
   },
   {
     "id": 9553,
     "name": "V15 Pro",
     "brand": "vivo",
     "slug": "vivo_v15_pro-9553",
-    "image": "https://cdn2.gsmarena.com/vv/bigpic/vivo-v15-pro-.jpg",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/vivo-v15-pro.jpg",
     "description": "vivo V15 Pro Android smartphone. Announced Feb 2019. Features 6.39″ Super AMOLED display, Snapdragon 675 chipset, 3700 mAh battery, 128 GB storage, 8 GB RAM."
   },
   {
@@ -741,7 +1237,7 @@
     "brand": "Huawei",
     "slug": "huawei_p30_lite-9545",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/huawei-p30-lite-.jpg",
-    "description": "Huawei P30 lite Android smartphone. Announced Mar 2019. Features 6.15″ IPS LCD display, Hisilicon Kirin 710 chipset, 3340 mAh battery, 128 GB storage, 6 GB RAM."
+    "description": "Huawei P30 lite Android smartphone. Announced Mar 2019. Features 6.15″ LTPS IPS LCD display, Hisilicon Kirin 710 chipset, 3340 mAh battery, 128 GB storage, 6 GB RAM."
   },
   {
     "id": 9544,
@@ -781,7 +1277,7 @@
     "brand": "LG",
     "slug": "lg_g8_thinq-9540",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/lg-g8-thinq-r1.jpg",
-    "description": "LG G8 ThinQ Android smartphone. Announced Feb 2019. Features 6.1″ AMOLED display, Snapdragon 855 chipset, 3500 mAh battery, 128 GB storage, 6 GB RAM, MIL-STD-810G compliant, Corning Gorilla Glass 5."
+    "description": "LG G8 ThinQ Android smartphone. Announced Feb 2019. Features 6.1″ P-OLED display, Snapdragon 855 chipset, 3500 mAh battery, 128 GB storage, 6 GB RAM, MIL-STD-810G compliant, Corning Gorilla Glass 5."
   },
   {
     "id": 9539,
@@ -805,7 +1301,7 @@
     "brand": "Samsung",
     "slug": "samsung_galaxy_s10e-9537",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s10e.jpg",
-    "description": "Samsung Galaxy S10e Android smartphone. Announced Feb 2019. Features 5.8″ Dynamic AMOLED display, Exynos 9820 Octa chipset, 3100 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5."
+    "description": "Samsung Galaxy S10e Android smartphone. Announced Feb 2019. Features 5.8″ Dynamic AMOLED display, Exynos 9820 chipset, 3100 mAh battery, 256 GB storage, 8 GB RAM, Corning Gorilla Glass 5."
   },
   {
     "id": 9536,
@@ -813,7 +1309,7 @@
     "brand": "Samsung",
     "slug": "samsung_galaxy_s10-9536",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s10.jpg",
-    "description": "Samsung Galaxy S10 Android smartphone. Announced Feb 2019. Features 6.1″ Dynamic AMOLED display, Exynos 9820 Octa chipset, 3400 mAh battery, 512 GB storage, 8 GB RAM, Corning Gorilla Glass 6."
+    "description": "Samsung Galaxy S10 Android smartphone. Announced Feb 2019. Features 6.1″ Dynamic AMOLED display, Exynos 9820 chipset, 3400 mAh battery, 512 GB storage, 8 GB RAM, Corning Gorilla Glass 6."
   },
   {
     "id": 9535,
@@ -821,7 +1317,7 @@
     "brand": "Samsung",
     "slug": "samsung_galaxy_s10+-9535",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s10-plus-new.jpg",
-    "description": "Samsung Galaxy S10+ Android smartphone. Announced Feb 2019. Features 6.4″ Dynamic AMOLED display, Exynos 9820 Octa chipset, 4100 mAh battery, 1024 GB storage, 12 GB RAM, Corning Gorilla Glass 6."
+    "description": "Samsung Galaxy S10+ Android smartphone. Announced Feb 2019. Features 6.4″ Dynamic AMOLED display, Exynos 9820 chipset, 4100 mAh battery, 1024 GB storage, 12 GB RAM, Corning Gorilla Glass 6."
   },
   {
     "id": 9534,
@@ -973,7 +1469,7 @@
     "brand": "Xiaomi",
     "slug": "xiaomi_redmi_note_7-9513",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-7.jpg",
-    "description": "Xiaomi Redmi Note 7 Android smartphone. Announced Jan 2019. Features 6.3″ IPS LCD display, Snapdragon 660 chipset, 4000 mAh battery, 64 GB storage, 6 GB RAM, Corning Gorilla Glass 5."
+    "description": "Xiaomi Redmi Note 7 Android smartphone. Announced Jan 2019. Features 6.3″ IPS LCD display, Snapdragon 660 chipset, 4000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 5."
   },
   {
     "id": 9512,
@@ -1005,7 +1501,7 @@
     "brand": "Honor",
     "slug": "honor_play_8a-9509",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-play-8a.jpg",
-    "description": "Honor Play 8A Android smartphone. Announced Jan 2019. Features 6.01″ LCD display, MT6765 Helio P35 chipset, 3020 mAh battery, 64 GB storage, 3 GB RAM."
+    "description": "Honor Play 8A Android smartphone. Announced Jan 2019. Features 6.09″ LCD display, MT6765 Helio P35 chipset, 3020 mAh battery, 64 GB storage, 3 GB RAM."
   },
   {
     "id": 9508,
@@ -1656,6 +2152,14 @@
     "description": "Infinix Hot 6 Pro Android smartphone. Announced  2018. Features 6.0″ IPS LCD display, Snapdragon 425 chipset, 4000 mAh battery, 32 GB storage, 3 GB RAM."
   },
   {
+    "id": 9424,
+    "name": "16s",
+    "brand": "Meizu",
+    "slug": "meizu_16s-9424",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/meizu-16s.jpg",
+    "description": "Meizu 16s Android smartphone. Announced Apr 2019. Features 6.2″ AMOLED display, Snapdragon 855 chipset, 3600 mAh battery, 256 GB storage, 8 GB RAM."
+  },
+  {
     "id": 9423,
     "name": "Hot 6X",
     "brand": "Infinix",
@@ -1774,6 +2278,14 @@
     "slug": "huawei_p_smart_2019-9409",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/huawei-p-smart-2019.jpg",
     "description": "Huawei P smart 2019 Android smartphone. Announced Dec 2018. Features 6.21″ LTPS IPS LCD display, Hisilicon Kirin 710 chipset, 3400 mAh battery, 64 GB storage, 3 GB RAM."
+  },
+  {
+    "id": 9408,
+    "name": "Pixel 3a",
+    "brand": "Google",
+    "slug": "google_pixel_3a-9408",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/google-pixel-3a.jpg",
+    "description": "Google Pixel 3a Android smartphone. Announced May 2019. Features 5.6″ OLED display, Snapdragon 670 chipset, 3000 mAh battery, 64 GB storage, 4 GB RAM, Asahi Dragontrail Glass."
   },
   {
     "id": 9407,
@@ -2309,7 +2821,7 @@
     "brand": "Samsung",
     "slug": "samsung_galaxy_a7_(2018)-9340",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a7-sm-a750f.jpg",
-    "description": "Samsung Galaxy A7 (2018) Android smartphone. Announced Sep 2018. Features 6.0″ Super AMOLED display, Exynos 7885 Octa chipset, 3300 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass (unspecified version)."
+    "description": "Samsung Galaxy A7 (2018) Android smartphone. Announced Sep 2018. Features 6.0″ Super AMOLED display, Exynos 7885 chipset, 3300 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass (unspecified version)."
   },
   {
     "id": 9339,
@@ -2888,6 +3400,14 @@
     "description": "Huawei Y7 (2018) Android smartphone. Announced Mar 2018. Features 5.99″ IPS LCD display, Snapdragon 430 chipset, 13 MP primary camera, 8 MP front camera, 3000 mAh battery, 16 GB storage, 2 GB RAM."
   },
   {
+    "id": 9264,
+    "name": "Galaxy Tab Advanced2",
+    "brand": "Samsung",
+    "slug": "samsung_galaxy_tab_advanced2-9264",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-advanced2-sm-t583.jpg",
+    "description": "Samsung Galaxy Tab Advanced2 Android tablet. Announced Nov 2018. Features 10.1″ IPS LCD display, Exynos 7870 Octa chipset, 7300 mAh battery, 32 GB storage, 3 GB RAM."
+  },
+  {
     "id": 9263,
     "name": "Galaxy Tab A 10.5",
     "brand": "Samsung",
@@ -2921,11 +3441,11 @@
   },
   {
     "id": 9259,
-    "name": "A5",
+    "name": "A5 (AX5)",
     "brand": "Oppo",
-    "slug": "oppo_a5-9259",
+    "slug": "oppo_a5_(ax5)-9259",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/oppo-a5.jpg",
-    "description": "Oppo A5 Android smartphone. Announced Jul 2018. Features 6.2″ IPS LCD display, Snapdragon 450 chipset, Dual: 13 MP (f/2.2, AF) + 2 MP primary camera, 8 MP front camera, 4230 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 3."
+    "description": "Oppo A5 (AX5) Android smartphone. Announced Jul 2018. Features 6.2″ IPS LCD display, Snapdragon 450 chipset, Dual: 13 MP (f/2.2, AF) + 2 MP primary camera, 8 MP front camera, 4230 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 3."
   },
   {
     "id": 9258,
@@ -3189,7 +3709,7 @@
     "brand": "Lenovo",
     "slug": "lenovo_k5_note_(2018)-9226",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/lenovo-k5-note-2018-.jpg",
-    "description": "Lenovo K5 Note (2018) Android smartphone. Announced Jun 2018. Features 6.0″ IPS LCD display, Snapdragon 450 chipset, Dual: 16 MP (f/2.0, PDAF) + 2 MP primary camera, 8 MP front camera, 3760 mAh battery, 64 GB storage, 4 GB RAM."
+    "description": "Lenovo K5 Note (2018) Android smartphone. Announced Jun 2018. Features 6.0″ IPS LCD display, Snapdragon 450 chipset, 3760 mAh battery, 64 GB storage, 4 GB RAM."
   },
   {
     "id": 9225,
@@ -3305,11 +3825,11 @@
   },
   {
     "id": 9211,
-    "name": "7s",
+    "name": "7S",
     "brand": "Honor",
     "slug": "honor_7s-9211",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-play-7.jpg",
-    "description": "Honor 7s Android smartphone. Announced May 2018. Features 5.45″ LCD display, MT6739 chipset, 13 MP primary camera, 5 MP front camera, 3020 mAh battery, 16 GB storage, 2 GB RAM."
+    "description": "Honor 7S Android smartphone. Announced May 2018. Features 5.45″ LCD display, MT6739 chipset, 13 MP primary camera, 5 MP front camera, 3020 mAh battery, 16 GB storage, 2 GB RAM."
   },
   {
     "id": 9210,
@@ -3365,7 +3885,7 @@
     "brand": "Samsung",
     "slug": "samsung_galaxy_j4-9204",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j4-j400.jpg",
-    "description": "Samsung Galaxy J4 Android smartphone. Announced May 2018. Features 5.5″ Super AMOLED display, Exynos 7570 Quad chipset, 13 MP primary camera, 5 MP front camera, 3000 mAh battery, 16 GB storage, 2 GB RAM."
+    "description": "Samsung Galaxy J4 Android smartphone. Announced May 2018. Features 5.5″ Super AMOLED display, Exynos 7570 Quad chipset, 13 MP primary camera, 5 MP front camera, 3000 mAh battery, 32 GB storage, 2 GB RAM."
   },
   {
     "id": 9203,
@@ -3469,7 +3989,7 @@
     "brand": "LG",
     "slug": "lg_v35_thinq-9191",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/lg-v35-.jpg",
-    "description": "LG V35 ThinQ Android smartphone. Announced May 2018. Features 6.0″ P-OLED display, Snapdragon 845 chipset, Dual: 16 MP (f/1.6, 1/3.1″, 1.0�m, OIS) + 16 MP primary camera, 8 MP front camera, 3300 mAh battery, 128 GB storage, 6 GB RAM, MIL-STD-810G compliant, Corning Gorilla Glass 5."
+    "description": "LG V35 ThinQ Android smartphone. Announced May 2018. Features 6.0″ P-OLED display, Snapdragon 845 chipset, Dual: 16 MP (f/1.6, 1/3.1″, 1.0�m, OIS) + 16 MP primary camera, 3300 mAh battery, 128 GB storage, 6 GB RAM, MIL-STD-810G compliant, Corning Gorilla Glass 5."
   },
   {
     "id": 9190,
@@ -3693,7 +4213,7 @@
     "brand": "Samsung",
     "slug": "samsung_galaxy_note9-9163",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note9-r1.jpg",
-    "description": "Samsung Galaxy Note9 Android smartphone. Announced Aug 2018. Features 6.4″ Super AMOLED display, Exynos 9810 Octa chipset, 4000 mAh battery, 512 GB storage, 8 GB RAM, Corning Gorilla Glass 5."
+    "description": "Samsung Galaxy Note9 Android smartphone. Announced Aug 2018. Features 6.4″ Super AMOLED display, Exynos 9810 chipset, 4000 mAh battery, 512 GB storage, 8 GB RAM, Corning Gorilla Glass 5."
   },
   {
     "id": 9162,
@@ -3717,7 +4237,7 @@
     "brand": "Meizu",
     "slug": "meizu_15_plus-9160",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/meizu-15-plus-.jpg",
-    "description": "Meizu 15 Plus Android smartphone. Announced Apr 2018. Features 5.95″ Super AMOLED display, Exynos 8895 Octa chipset, Dual: 12 MP (f/1.8, 1/2.3″, 1.55 �m, 4-axis OIS, dual pixel PDAF & laser AF) + 20 MP primary camera, 20 MP front camera, 3500 mAh battery, 128 GB storage, 6 GB RAM."
+    "description": "Meizu 15 Plus Android smartphone. Announced Apr 2018. Features 5.95″ Super AMOLED display, Exynos 8895 chipset, Dual: 12 MP (f/1.8, 1/2.3″, 1.55 �m, 4-axis OIS, dual pixel PDAF & laser AF) + 20 MP primary camera, 20 MP front camera, 3500 mAh battery, 128 GB storage, 6 GB RAM."
   },
   {
     "id": 9159,
@@ -3773,7 +4293,7 @@
     "brand": "Samsung",
     "slug": "samsung_galaxy_j7_duo-9153",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j7-duo-sm-j720f.jpg",
-    "description": "Samsung Galaxy J7 Duo Android smartphone. Announced Apr 2018. Features 5.5″ Super AMOLED display, Exynos 7885 Octa chipset, Dual: 13 MP (f/1.9, AF) + 5 MP primary camera, 8 MP front camera, 3000 mAh battery, 32 GB storage, 4 GB RAM."
+    "description": "Samsung Galaxy J7 Duo Android smartphone. Announced Apr 2018. Features 5.5″ Super AMOLED display, Exynos 7885 chipset, Dual: 13 MP (f/1.9, AF) + 5 MP primary camera, 8 MP front camera, 3000 mAh battery, 32 GB storage, 4 GB RAM."
   },
   {
     "id": 9152,
@@ -4997,7 +5517,7 @@
     "brand": "Meizu",
     "slug": "meizu_m6s-8998",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/meizu-m6s.jpg",
-    "description": "Meizu M6s Android smartphone. Announced Jan 2018. Features 5.7″ IPS LCD display, Exynos 7872 Hexa chipset, 16 MP primary camera, 8 MP front camera, 3000 mAh battery, 64 GB storage, 3 GB RAM."
+    "description": "Meizu M6s Android smartphone. Announced Jan 2018. Features 5.7″ IPS LCD display, Exynos 7872 chipset, 16 MP primary camera, 8 MP front camera, 3000 mAh battery, 64 GB storage, 3 GB RAM."
   },
   {
     "id": 8997,
@@ -5245,7 +5765,7 @@
     "brand": "Samsung",
     "slug": "samsung_galaxy_s9+-8967",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s9-plus-blue.jpg",
-    "description": "Samsung Galaxy S9+ Android smartphone. Announced Feb 2018. Features 6.2″ Super AMOLED display, Exynos 9810 Octa chipset, Dual: 12 MP (f/1.5-2.4, 26mm, 1/2.55″, 1.4�m, dual pixel PDAF) + 12MP primary camera, 8 MP front camera, 3500 mAh battery, 256 GB storage, 6 GB RAM, Corning Gorilla Glass 5."
+    "description": "Samsung Galaxy S9+ Android smartphone. Announced Feb 2018. Features 6.2″ Super AMOLED display, Exynos 9810 chipset, Dual: 12 MP (f/1.5-2.4, 26mm, 1/2.55″, 1.4�m, dual pixel PDAF) + 12MP primary camera, 8 MP front camera, 3500 mAh battery, 256 GB storage, 6 GB RAM, Corning Gorilla Glass 5."
   },
   {
     "id": 8966,
@@ -5253,7 +5773,7 @@
     "brand": "Samsung",
     "slug": "samsung_galaxy_s9-8966",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s9-.jpg",
-    "description": "Samsung Galaxy S9 Android smartphone. Announced Feb 2018. Features 5.8″ Super AMOLED display, Exynos 9810 Octa chipset, 12 MP primary camera, 8 MP front camera, 3000 mAh battery, 256 GB storage, 4 GB RAM, Corning Gorilla Glass 5."
+    "description": "Samsung Galaxy S9 Android smartphone. Announced Feb 2018. Features 5.8″ Super AMOLED display, Exynos 9810 chipset, 12 MP primary camera, 8 MP front camera, 3000 mAh battery, 256 GB storage, 4 GB RAM, Corning Gorilla Glass 5."
   },
   {
     "id": 8965,
@@ -5877,7 +6397,7 @@
     "brand": "Samsung",
     "slug": "samsung_galaxy_a8_(2018)-8886",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a8-a530f.jpg",
-    "description": "Samsung Galaxy A8 (2018) Android smartphone. Announced Dec 2017. Features 5.6″ Super AMOLED display, Exynos 7885 Octa chipset, 16 MP primary camera, Dual: 16 MP (f/1.9, 1/3.1�, 1.0�m) + 8 MP front camera, 3000 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 4."
+    "description": "Samsung Galaxy A8 (2018) Android smartphone. Announced Dec 2017. Features 5.6″ Super AMOLED display, Exynos 7885 chipset, 16 MP primary camera, Dual: 16 MP (f/1.9, 1/3.1�, 1.0�m) + 8 MP front camera, 3000 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 4."
   },
   {
     "id": 8885,
@@ -6645,7 +7165,7 @@
     "brand": "Samsung",
     "slug": "samsung_galaxy_a8+_(2018)-8790",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a8-plus-a730f.jpg",
-    "description": "Samsung Galaxy A8+ (2018) Android smartphone. Announced Dec 2017. Features 6.0″ Super AMOLED display, Exynos 7885 Octa chipset, 16 MP primary camera, Dual: 16 MP (f/1.9, 1/3.1�, 1.0�m) + 8 MP front camera, 3500 mAh battery, 64 GB storage, 6 GB RAM, Corning Gorilla Glass 4."
+    "description": "Samsung Galaxy A8+ (2018) Android smartphone. Announced Dec 2017. Features 6.0″ Super AMOLED display, Exynos 7885 chipset, 16 MP primary camera, Dual: 16 MP (f/1.9, 1/3.1�, 1.0�m) + 8 MP front camera, 3500 mAh battery, 64 GB storage, 6 GB RAM, Corning Gorilla Glass 4."
   },
   {
     "id": 8789,
@@ -8472,14 +8992,6 @@
     "description": "Lenovo Tab3 8 Plus Android tablet. Announced Mar 2017. Features 8.0″ IPS LCD display, Snapdragon 625 chipset, 8 MP primary camera, 5 MP front camera, 4250 mAh battery, 16 GB storage, 3 GB RAM."
   },
   {
-    "id": 8558,
-    "name": "Redmi Pro 2",
-    "brand": "Xiaomi",
-    "slug": "xiaomi_redmi_pro_2-8558",
-    "image": "https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-pro-2-r.jpg",
-    "description": "Xiaomi Redmi Pro 2 Android smartphone. Not announced yet. Features 5.5″ LTPS-AMOLED display, Snapdragon 660 chipset, Dual: 12 MP (1/2.55″, 1.4�m, PDAF) + 5 MP primary camera, 16 MP front camera, 4500 mAh battery, 128 GB storage, 4 GB RAM."
-  },
-  {
     "id": 8557,
     "name": "Grand Max",
     "brand": "BLU",
@@ -8757,7 +9269,7 @@
     "brand": "Samsung",
     "slug": "samsung_galaxy_s8+-8523",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s8-plus-.jpg",
-    "description": "Samsung Galaxy S8+ Android smartphone. Announced Mar 2017. Features 6.2″ Super AMOLED display, Exynos 8895 Octa chipset, 12 MP primary camera, 8 MP front camera, 3500 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 5."
+    "description": "Samsung Galaxy S8+ Android smartphone. Announced Mar 2017. Features 6.2″ Super AMOLED display, Exynos 8895 chipset, 12 MP primary camera, 8 MP front camera, 3500 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 5."
   },
   {
     "id": 8522,
@@ -8901,7 +9413,7 @@
     "brand": "Samsung",
     "slug": "samsung_galaxy_note8-8505",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note-8-sm-n950.jpg",
-    "description": "Samsung Galaxy Note8 Android smartphone. Announced Aug 2017. Features 6.3″ Super AMOLED display, Exynos 8895 Octa chipset, 3300 mAh battery, 256 GB storage, 6 GB RAM, Corning Gorilla Glass 5."
+    "description": "Samsung Galaxy Note8 Android smartphone. Announced Aug 2017. Features 6.3″ Super AMOLED display, Exynos 8895 chipset, 3300 mAh battery, 256 GB storage, 6 GB RAM, Corning Gorilla Glass 5."
   },
   {
     "id": 8504,
@@ -8989,7 +9501,7 @@
     "brand": "Samsung",
     "slug": "samsung_galaxy_a5_(2017)-8494",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a5-2017-new.jpg",
-    "description": "Samsung Galaxy A5 (2017) Android smartphone. Announced Jan 2017. Features 5.2″ Super AMOLED display, Exynos 7880 Octa chipset, 16 MP primary camera, 16 MP front camera, 3000 mAh battery, 64 GB storage, 3 GB RAM, Corning Gorilla Glass 4."
+    "description": "Samsung Galaxy A5 (2017) Android smartphone. Announced Jan 2017. Features 5.2″ Super AMOLED display, Exynos 7880 chipset, 16 MP primary camera, 16 MP front camera, 3000 mAh battery, 64 GB storage, 3 GB RAM, Corning Gorilla Glass 4."
   },
   {
     "id": 8493,
@@ -10261,7 +10773,7 @@
     "brand": "Samsung",
     "slug": "samsung_galaxy_a7_(2017)-8335",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a7-2017.jpg",
-    "description": "Samsung Galaxy A7 (2017) Android smartphone. Announced Jan 2017. Features 5.7″ Super AMOLED display, Exynos 7880 Octa chipset, 16 MP primary camera, 16 MP front camera, 3600 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass 4."
+    "description": "Samsung Galaxy A7 (2017) Android smartphone. Announced Jan 2017. Features 5.7″ Super AMOLED display, Exynos 7880 chipset, 16 MP primary camera, 16 MP front camera, 3600 mAh battery, 32 GB storage, 3 GB RAM, Corning Gorilla Glass 4."
   },
   {
     "id": 8334,
@@ -11653,7 +12165,7 @@
     "brand": "Samsung",
     "slug": "samsung_galaxy_s8-8161",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s8-.jpg",
-    "description": "Samsung Galaxy S8 Android smartphone. Announced Mar 2017. Features 5.8″ Super AMOLED display, Exynos 8895 Octa chipset, 12 MP primary camera, 8 MP front camera, 3000 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 5."
+    "description": "Samsung Galaxy S8 Android smartphone. Announced Mar 2017. Features 5.8″ Super AMOLED display, Exynos 8895 chipset, 12 MP primary camera, 8 MP front camera, 3000 mAh battery, 64 GB storage, 4 GB RAM, Corning Gorilla Glass 5."
   },
   {
     "id": 8160,
@@ -18981,7 +19493,7 @@
     "brand": "LG",
     "slug": "lg_g_stylo-7245",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/lg-g-stylo-cdma.jpg",
-    "description": "LG G Stylo Android smartphone. Announced May 2015. Features 5.7″ IPS LCD display, Snapdragon 410 chipset, 8 MP primary camera, 5 MP front camera, 3000 mAh battery, 8 GB storage, 1000 MB RAM, Corning Gorilla Glass 3."
+    "description": "LG G Stylo Android smartphone. Announced May 2015. Features 5.7″ IPS LCD display, Snapdragon 410 chipset, 8 MP primary camera, 5 MP front camera, 3000 mAh battery, 16 GB storage, 2 GB RAM, Corning Gorilla Glass 3."
   },
   {
     "id": 7244,
@@ -22113,11 +22625,11 @@
   },
   {
     "id": 6853,
-    "name": "Zenfone 6 A601CG",
+    "name": "Zenfone 6 A601CG (2014)",
     "brand": "Asus",
-    "slug": "asus_zenfone_6_a601cg-6853",
+    "slug": "asus_zenfone_6_a601cg_(2014)-6853",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-6.jpg",
-    "description": "Asus Zenfone 6 A601CG Android smartphone. Announced Jan 2014. Features 6.0″ IPS LCD display, Intel Atom Z2560 chipset, 13 MP primary camera, 2 MP front camera, 3230 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 3."
+    "description": "Asus Zenfone 6 A601CG (2014) Android smartphone. Announced Jan 2014. Features 6.0″ IPS LCD display, Intel Atom Z2560 chipset, 13 MP primary camera, 2 MP front camera, 3230 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 3."
   },
   {
     "id": 6852,
@@ -25141,7 +25653,7 @@
     "brand": "Allview",
     "slug": "allview_impera_s-6473",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/allview-impera-s.jpg",
-    "description": "Allview Impera S Windows Mobile smartphone. Announced Jun 2014. Features 5.0″ IPS LCD display, Snapdragon 200 chipset, 8 MP primary camera, 2 MP front camera, 200 mAh battery, 8 GB storage, 1000 MB RAM, Scratch-resistant glass."
+    "description": "Allview Impera S Windows Mobile smartphone. Announced Jun 2014. Features 5.0″ IPS LCD display, Snapdragon 200 chipset, 8 MP primary camera, 2 MP front camera, 2000 mAh battery, 8 GB storage, 1000 MB RAM, Scratch-resistant glass."
   },
   {
     "id": 6472,
@@ -29297,11 +29809,11 @@
   },
   {
     "id": 5953,
-    "name": "Zenfone 6 A600CG",
+    "name": "Zenfone 6 A600CG (2014)",
     "brand": "Asus",
-    "slug": "asus_zenfone_6_a600cg-5953",
+    "slug": "asus_zenfone_6_a600cg_(2014)-5953",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-6.jpg",
-    "description": "Asus Zenfone 6 A600CG Android smartphone. Announced Jan 2014. Features 6.0″ IPS LCD display, Intel Atom Z2580 chipset, 13 MP primary camera, 2 MP front camera, 3300 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 3."
+    "description": "Asus Zenfone 6 A600CG (2014) Android smartphone. Announced Jan 2014. Features 6.0″ IPS LCD display, Intel Atom Z2580 chipset, 13 MP primary camera, 2 MP front camera, 3300 mAh battery, 32 GB storage, 2 GB RAM, Corning Gorilla Glass 3."
   },
   {
     "id": 5952,
@@ -43312,6 +43824,14 @@
     "description": "Samsung Galaxy S II HD LTE Android smartphone. Announced Sep 2011. Features 4.65″ Super AMOLED display, Snapdragon S3 chipset, 8 MP primary camera, 2 MP front camera, 1850 mAh battery, 16 GB storage, 1000 MB RAM, Corning Gorilla Glass."
   },
   {
+    "id": 4197,
+    "name": "U8860",
+    "brand": "Honor",
+    "slug": "honor_u8860-4197",
+    "image": "https://cdn2.gsmarena.com/vv/bigpic/huawei-honor.jpg",
+    "description": "Honor U8860 Android smartphone. Announced Sep 2011. Features 4.0″ TFT display, Snapdragon S2 chipset, 8 MP primary camera, 1930 mAh battery, 1000 MB storage, 512 MB RAM."
+  },
+  {
     "id": 4196,
     "name": "Rhyme CDMA",
     "brand": "HTC",
@@ -44349,7 +44869,7 @@
     "brand": "LG",
     "slug": "lg_optimus_sol_e730-4067",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/lg-optimus-sol.jpg",
-    "description": "LG Optimus Sol E730 Android smartphone. Announced Aug 2011. Features 3.8″ Ultra AMOLED display, Snapdragon S2 chipset, 5 MP primary camera, 1500 mAh battery, 1000 MB storage, 512 MB RAM, Corning Gorilla Glass."
+    "description": "LG Optimus Sol E730 Android smartphone. Announced Aug 2011. Features 3.8″ OLED display, Snapdragon S2 chipset, 5 MP primary camera, 1500 mAh battery, 1000 MB storage, 512 MB RAM, Corning Gorilla Glass."
   },
   {
     "id": 4066,
@@ -50045,7 +50565,7 @@
     "brand": "LG",
     "slug": "lg_gw910-3345",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/lg-e900-optimus-7.jpg",
-    "description": "LG GW910 Windows Mobile smartphone. Announced Sep 2010. Features 3.5″ AMOLED display, Snapdragon S1 chipset, 5 MP primary camera, 1500 mAh battery, 8 GB storage."
+    "description": "LG GW910 Windows Mobile smartphone. Announced Sep 2010. Features 3.5″ OLED display, Snapdragon S1 chipset, 5 MP primary camera, 1500 mAh battery, 8 GB storage."
   },
   {
     "id": 3344,
@@ -60189,7 +60709,7 @@
     "brand": "LG",
     "slug": "lg_s5000-2054",
     "image": "https://cdn2.gsmarena.com/vv/bigpic/lg-s5000.gif",
-    "description": "LG S5000 phone. Announced Oct 2005. Features AMOLED, 256K colors display, 1.3 MP primary camera, 930 mAh battery."
+    "description": "LG S5000 phone. Announced Oct 2005. Features OLED, 256K colors display, 1.3 MP primary camera, 930 mAh battery."
   },
   {
     "id": 2053,

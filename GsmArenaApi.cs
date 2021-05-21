@@ -105,11 +105,12 @@ namespace ConsoleApp
 
             foreach (var phone in phones)
             {
-                System.Console.Write($"{counter.ToString("D4")}/8291");
+                System.Console.Write($"{counter.ToString("D4")}/{phones.Count}");
                 Console.ForegroundColor = ConsoleColor.Red;
                 System.Console.Write($"{(failed > 0 ? "-" + failed : "")}");
                 Console.ResetColor();
-                System.Console.WriteLine($"; {phone.Slug};\n{phone.Brand} - {phone.Name}");
+                System.Console.Write($", {((double)counter/phones.Count).ToString("P")}");
+                System.Console.WriteLine($", {phone.Slug};\n{phone.Brand} - {phone.Name}");
                 counter++;
                 try
                 {
